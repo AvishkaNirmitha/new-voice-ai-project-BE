@@ -25,8 +25,11 @@ from livekit.plugins import (
 
 from livekit.agents.llm import function_tool
 from livekit.agents.voice import MetricsCollectedEvent
-from livekit.plugins import cartesia, deepgram, noise_cancellation, openai, silero
-from livekit.plugins.turn_detector.multilingual import MultilingualModel
+from livekit.plugins import openai, silero
+
+# # Assuming the script is in the same directory level as 'src'
+# from scripts.v1.agent_recomends_with import get_next_filter_question
+# get_next_filter_question("pim487", "room123")
 
 import asyncio
 
