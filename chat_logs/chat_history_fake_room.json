@@ -1,0 +1,26 @@
+{
+  "room_name": "fake_room",
+  "session_start": "2025-07-22T14:47:14.088199",
+  "last_updated": "2025-07-22T14:47:20.299979",
+  "message_count": 2,
+  "messages": [
+    {
+      "timestamp": "2025-07-22T14:47:14.088199",
+      "role": "system",
+      "content": "Session started",
+      "metadata": {
+        "event": "session_start",
+        "room": "fake_room"
+      }
+    },
+    {
+      "timestamp": "2025-07-22T14:47:20.299979",
+      "role": "system",
+      "content": "Session ended",
+      "metadata": {
+        "event": "session_end",
+        "usage_summary": "UsageSummary(llm_prompt_tokens=0, llm_prompt_cached_tokens=0, llm_completion_tokens=0, tts_characters_count=99, tts_audio_duration=6.0580000000000025, stt_audio_duration=0.0)"
+      }
+    }
+  ]
+}
