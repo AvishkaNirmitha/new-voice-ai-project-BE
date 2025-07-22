@@ -1,6 +1,6 @@
 import requests
 import json
-from api_headers import get_headers
+from scripts.v1.api_headers import get_headers
 from scripts.v1.find_categories import find_sub_category_by_pimid, get_engineering_tool_by_pimid
 from datetime import datetime
 from groq import Groq

@@ -154,7 +154,7 @@ def get_url_of_categoriy(pimId):
 
 import requests
 import json
-from api_headers import get_headers
+from scripts.v1.api_headers import get_headers
  
  
 base_url = "https://www.festo.com/gr/en/search/categories/"

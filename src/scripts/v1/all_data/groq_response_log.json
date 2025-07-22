@@ -1,0 +1,48 @@
+{
+    "124": [
+        {
+            "timestamp": "2025-07-22T14:00:09.298447",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a matching engine. The user has answered a question using natural language.\n\n                Your task is to:\n                - Identify the best-matching value from the given list of values.\n                - Match the user's answer against the `name` field in the values (case-insensitive, approximate match allowed).\n                - Return the corresponding `code`.\n\n                Instructions:\n                - You are given a question and a user's answer.\n                - User can only answer for one value.\n                - The values are provided in a structured format.\n                - Only use the `name` field to identify a match. Accept flexible formats (e.g., '10' matches '10.0').\n                - Return the result strictly in this format without any additional text:\n                ===CODE==={\"code\": \"<matched_code>\"}===END_CODE===\n                - If no match is found, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What type of surface would you like your parallel gripper's gripping jaws to be made of: Rubber, Metal, or Plastic?\n                User's Answer: rubber\n                Values: [{'name': 'Rubber', 'code': 'RUBBER'}, {'name': 'Metal', 'code': 'METAL'}, {'name': 'Plastic', 'code': 'PLASTIC'}]",
+            "question": "What type of surface would you like your parallel gripper's gripping jaws to be made of: Rubber, Metal, or Plastic?",
+            "user_answer": "rubber",
+            "extract_code": "RUBBER",
+            "response_content": "===CODE==={\"code\": \"RUBBER\"}===END_CODE==="
+        }
+    ],
+    "session_room": [
+        {
+            "timestamp": "2025-07-22T13:33:54.684511",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a strict value extractor.\n\n                Your task is to:\n                - Extract a numeric value from the user's answer.\n                - The value must be between 0.1 and 15 (inclusive).\n                - The value must be a multiple of 0.1 relative to the minimum value.\n                - If the user gives a decimal number, round it to the **nearest multiple of 0.1**.\n                - If the rounded value falls outside the valid range, return `\"None\"`.\n                - Return the value with the same precision as the sliderStep (e.g., if sliderStep is 0.1, return one decimal place).\n\n                Instructions:\n                - Return a **numeric value** that is a multiple of 0.1 within the given range.\n                - The output format must be (strictly this, no explanation):\n                ===CODE==={\"code\": <numeric_value>}===END_CODE===\n                - If the value is out of range or not a valid multiple of 0.1, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What is the minimum payload you need for your parallel gripper, with a range of 0.1 to 15 kg?\n                User's Answer: 10 kg\n                Valid Range: 0.1 to 15 kg\n                Step: 0.1 kg",
+            "question": "What is the minimum payload you need for your parallel gripper, with a range of 0.1 to 15 kg?",
+            "user_answer": "10 kg",
+            "extract_code": "10.0",
+            "response_content": "===CODE==={\"code\": 10.0}===END_CODE==="
+        },
+        {
+            "timestamp": "2025-07-22T13:33:58.310488",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a matching engine. The user has answered a question using natural language.\n\n                Your task is to:\n                - Identify the best-matching value from the given list of values.\n                - Match the user's answer against the `name` field in the values (case-insensitive, approximate match allowed).\n                - Return the corresponding `code`.\n\n                Instructions:\n                - You are given a question and a user's answer.\n                - User can only answer for one value.\n                - The values are provided in a structured format.\n                - Only use the `name` field to identify a match. Accept flexible formats (e.g., '10' matches '10.0').\n                - Return the result strictly in this format without any additional text:\n                ===CODE==={\"code\": \"<matched_code>\"}===END_CODE===\n                - If no match is found, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What safety factor would you like for your parallel gripper: 2, 3, or 4?\n                User's Answer: 2\n                Values: [{'name': '2', 'code': '2'}, {'name': '3', 'code': '3'}, {'name': '4', 'code': '4'}]",
+            "question": "What safety factor would you like for your parallel gripper: 2, 3, or 4?",
+            "user_answer": "2",
+            "extract_code": "2",
+            "response_content": "===CODE==={\"code\": \"2\"}===END_CODE==="
+        }
+    ],
+    "124": [
+        {
+            "timestamp": "2025-07-22T14:00:36.084971",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a matching engine. The user has answered a question using natural language.\n\n                Your task is to:\n                - Identify the best-matching value from the given list of values.\n                - Match the user's answer against the `name` field in the values (case-insensitive, approximate match allowed).\n                - Return the corresponding `code`.\n\n                Instructions:\n                - You are given a question and a user's answer.\n                - User can only answer for one value.\n                - The values are provided in a structured format.\n                - Only use the `name` field to identify a match. Accept flexible formats (e.g., '10' matches '10.0').\n                - Return the result strictly in this format without any additional text:\n                ===CODE==={\"code\": \"<matched_code>\"}===END_CODE===\n                - If no match is found, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What type of surface object will the parallel gripper be handling: Glass, Metal, Plastic, or Cardboard?\n                User's Answer: glass\n                Values: [{'name': 'Glass', 'code': 'GLASS'}, {'name': 'Metal', 'code': 'METAL'}, {'name': 'Plastic', 'code': 'PLASTIC'}, {'name': 'Cardboard', 'code': 'CARTON'}]",
+            "question": "What type of surface object will the parallel gripper be handling: Glass, Metal, Plastic, or Cardboard?",
+            "user_answer": "glass",
+            "extract_code": "GLASS",
+            "response_content": "===CODE==={\"code\": \"GLASS\"}===END_CODE==="
+        }
+    ]
+}
