@@ -1,0 +1,2513 @@
+[
+    {
+        "name": "Actuators",
+        "pimId": "pim5",
+        "url": "https://www.festo.com/in/en/c/products/actuators-id_pim5/",
+        "sub_categories": [
+            {
+                "name": "Pneumatic cylinders",
+                "pimId": "pim135",
+                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders-id_pim135/",
+                "sub_categories": [
+                    {
+                        "name": "Piston rod cylinder",
+                        "pimId": "pim215",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/piston-rod-cylinder-id_pim215/",
+                        "sub_categories": [
+                            {
+                                "name": "Round cylinders",
+                                "pimId": "pim378",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/piston-rod-cylinder/round-cylinders-id_pim378/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Profile cylinder and tie rod cylinder",
+                                "pimId": "pim383",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/piston-rod-cylinder/profile-cylinder-and-tie-rod-cylinder-id_pim383/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Compact pneumatic cylinders, short-stroke and flat cylinders",
+                                "pimId": "pim380",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/piston-rod-cylinder/compact-pneumatic-cylinders-short-stroke-and-flat-cylinders-id_pim380/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Multimount and pin cylinders",
+                                "pimId": "pim381",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/piston-rod-cylinder/multimount-and-pin-cylinders-id_pim381/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pneumatic clamp cylinders",
+                                "pimId": "pim382",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/piston-rod-cylinder/pneumatic-clamp-cylinders-id_pim382/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Stainless steel pneumatic cylinders",
+                                "pimId": "pim379",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/piston-rod-cylinder/stainless-steel-pneumatic-cylinders-id_pim379/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rodless cylinders",
+                        "pimId": "pim216",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/rodless-cylinders-id_pim216/",
+                        "sub_categories": [
+                            {
+                                "name": "Mechanically coupled pneumatic cylinders",
+                                "pimId": "pim384",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/rodless-cylinders/mechanically-coupled-pneumatic-cylinders-id_pim384/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Magnetically coupled pneumatic cylinders",
+                                "pimId": "pim385",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/rodless-cylinders/magnetically-coupled-pneumatic-cylinders-id_pim385/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rotary actuators",
+                        "pimId": "pim217",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/rotary-actuators-id_pim217/",
+                        "sub_categories": [
+                            {
+                                "name": "Vane drives",
+                                "pimId": "pim386",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/rotary-actuators/vane-drives-id_pim386/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Rack and pinion actuators",
+                                "pimId": "pim387",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/rotary-actuators/rack-and-pinion-actuators-id_pim387/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Swivel linear actuators",
+                                "pimId": "pim388",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/rotary-actuators/swivel-linear-actuators-id_pim388/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tandem, high-force and multi-position cylinders",
+                        "pimId": "pim218",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/tandem-high-force-and-multi-position-cylinders-id_pim218/",
+                        "sub_categories": [
+                            {
+                                "name": "Tandem and high-force cylinders",
+                                "pimId": "pim389",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/tandem-high-force-and-multi-position-cylinders/tandem-and-high-force-cylinders-id_pim389/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Multi-position cylinders",
+                                "pimId": "pim390",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/tandem-high-force-and-multi-position-cylinders/multi-position-cylinders-id_pim390/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Guided cylinders",
+                        "pimId": "pim219",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/guided-cylinders-id_pim219/",
+                        "sub_categories": [
+                            {
+                                "name": "Drives with slides",
+                                "pimId": "pim391",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/guided-cylinders/drives-with-slides-id_pim391/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Drives with guide rods",
+                                "pimId": "pim392",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/guided-cylinders/drives-with-guide-rods-id_pim392/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stopper cylinders and feed separators",
+                        "pimId": "pim220",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/stopper-cylinders-and-feed-separators-id_pim220/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Clamping cylinders",
+                        "pimId": "pim221",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/clamping-cylinders-id_pim221/",
+                        "sub_categories": [
+                            {
+                                "name": "Diaphragm clamping cylinders",
+                                "pimId": "pim393",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/clamping-cylinders/diaphragm-clamping-cylinders-id_pim393/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Swing clamp cylinders",
+                                "pimId": "pim394",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/clamping-cylinders/swing-clamp-cylinders-id_pim394/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Hinge cylinders",
+                                "pimId": "pim395",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/clamping-cylinders/hinge-cylinders-id_pim395/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diaphragm actuators",
+                        "pimId": "pim222",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/diaphragm-actuators-id_pim222/",
+                        "sub_categories": [
+                            {
+                                "name": "Bellows cylinders",
+                                "pimId": "pim396",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/diaphragm-actuators/bellows-cylinders-id_pim396/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pneumatic muscle",
+                                "pimId": "pim397",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/diaphragm-actuators/pneumatic-muscle-id_pim397/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rotary indexing tables",
+                        "pimId": "pim223",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/rotary-indexing-tables-id_pim223/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Hydraulic dampers",
+                        "pimId": "pim225",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/hydraulic-dampers-id_pim225/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Classic",
+                        "pimId": "pim528",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/classic-id_pim528/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Cylinder mounting parts and accessories",
+                        "pimId": "pim226",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/cylinder-mounting-parts-and-accessories-id_pim226/",
+                        "sub_categories": [
+                            {
+                                "name": "Mounting attachments for drives",
+                                "pimId": "pim398",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/cylinder-mounting-parts-and-accessories/mounting-attachments-for-drives-id_pim398/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Mounting components for sensors",
+                                "pimId": "pim399",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/cylinder-mounting-parts-and-accessories/mounting-components-for-sensors-id_pim399/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Piston-rod attachments",
+                                "pimId": "pim400",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/cylinder-mounting-parts-and-accessories/piston-rod-attachments-id_pim400/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Linear guides",
+                                "pimId": "pim402",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/cylinder-mounting-parts-and-accessories/linear-guides-id_pim402/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Accessories for direct valve mounting",
+                                "pimId": "pim401",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/cylinder-mounting-parts-and-accessories/accessories-for-direct-valve-mounting-id_pim401/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Clamping components",
+                                "pimId": "pim403",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/cylinder-mounting-parts-and-accessories/clamping-components-id_pim403/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Freewheel units",
+                                "pimId": "pim404",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/cylinder-mounting-parts-and-accessories/freewheel-units-id_pim404/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Accessories for cushioning components",
+                                "pimId": "pim405",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/cylinder-mounting-parts-and-accessories/accessories-for-cushioning-components-id_pim405/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Drive-specific accessories",
+                                "pimId": "pim406",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-cylinders/cylinder-mounting-parts-and-accessories/drive-specific-accessories-id_pim406/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Servo-pneumatics",
+                "pimId": "pim185",
+                "url": "https://www.festo.com/in/en/c/products/actuators/servo-pneumatics-id_pim185/",
+                "sub_categories": [
+                    {
+                        "name": "Cylinders with displacement encoders",
+                        "pimId": "pim228",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/servo-pneumatics/cylinders-with-displacement-encoders-id_pim228/",
+                        "sub_categories": [
+                            {
+                                "name": "Linear cylinders with displacement encoders",
+                                "pimId": "pim407",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/servo-pneumatics/cylinders-with-displacement-encoders/linear-cylinders-with-displacement-encoders-id_pim407/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Semi-rotary drives with displacement encoders",
+                                "pimId": "pim408",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/servo-pneumatics/cylinders-with-displacement-encoders/semi-rotary-drives-with-displacement-encoders-id_pim408/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Servo-pneumatic controllers",
+                        "pimId": "pim230",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/servo-pneumatics/servo-pneumatic-controllers-id_pim230/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Linear potentiometers",
+                        "pimId": "pim231",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/servo-pneumatics/linear-potentiometers-id_pim231/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Proportional valves",
+                        "pimId": "pim232",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/servo-pneumatics/proportional-valves-id_pim232/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Sensor interfaces",
+                        "pimId": "pim233",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/servo-pneumatics/sensor-interfaces-id_pim233/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Cables and accessories",
+                        "pimId": "pim313",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/servo-pneumatics/cables-and-accessories-id_pim313/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Electromechanical actuators",
+                "pimId": "pim205",
+                "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators-id_pim205/",
+                "sub_categories": [
+                    {
+                        "name": "Linear axes",
+                        "pimId": "pim234",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/linear-axes-id_pim234/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Electromechanical cylinders",
+                        "pimId": "pim522",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/electromechanical-cylinders-id_pim522/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Integrated electromechanical actuators",
+                        "pimId": "pim705",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/integrated-electromechanical-actuators-id_pim705/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Electric rotary actuators",
+                        "pimId": "pim235",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/electric-rotary-actuators-id_pim235/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Electric stoppers",
+                        "pimId": "pim236",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/electric-stoppers-id_pim236/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Electric handling modules",
+                        "pimId": "pim237",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/electric-handling-modules-id_pim237/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories for electric drives",
+                        "pimId": "pim238",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/accessories-for-electric-drives-id_pim238/",
+                        "sub_categories": [
+                            {
+                                "name": "Mounting parts for motor mounting",
+                                "pimId": "pim409",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/accessories-for-electric-drives/mounting-parts-for-motor-mounting-id_pim409/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Mounting parts for position sensing",
+                                "pimId": "pim410",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/accessories-for-electric-drives/mounting-parts-for-position-sensing-id_pim410/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Mounting parts for protective devices",
+                                "pimId": "pim411",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/accessories-for-electric-drives/mounting-parts-for-protective-devices-id_pim411/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Mounting attachments",
+                                "pimId": "pim412",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/accessories-for-electric-drives/mounting-attachments-id_pim412/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Linear guides",
+                                "pimId": "pim413",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/accessories-for-electric-drives/linear-guides-id_pim413/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Accessories for cushioning",
+                                "pimId": "pim414",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/accessories-for-electric-drives/accessories-for-cushioning-id_pim414/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Drive-specific accessories",
+                                "pimId": "pim486",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/electromechanical-actuators/accessories-for-electric-drives/drive-specific-accessories-id_pim486/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pneumatic actuators for process valves",
+                "pimId": "pim710",
+                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-actuators-for-process-valves-id_pim710/",
+                "sub_categories": [
+                    {
+                        "name": "Linear actuators for process valves",
+                        "pimId": "pim211",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-actuators-for-process-valves/linear-actuators-for-process-valves-id_pim211/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Rotary actuators for process valves",
+                        "pimId": "pim210",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-actuators-for-process-valves/rotary-actuators-for-process-valves-id_pim210/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories",
+                        "pimId": "pim711",
+                        "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-actuators-for-process-valves/accessories-id_pim711/",
+                        "sub_categories": [
+                            {
+                                "name": "Limit switch attachments",
+                                "pimId": "pim712",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-actuators-for-process-valves/accessories/limit-switch-attachments-id_pim712/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Valve positioners",
+                                "pimId": "pim713",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-actuators-for-process-valves/accessories/valve-positioners-id_pim713/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "NAMUR valves",
+                                "pimId": "pim10",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-actuators-for-process-valves/accessories/namur-valves-id_pim10/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pneumatic extension modules",
+                                "pimId": "pim715",
+                                "url": "https://www.festo.com/in/en/c/products/actuators/pneumatic-actuators-for-process-valves/accessories/pneumatic-extension-modules-id_pim715/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Motors and servo drives",
+        "pimId": "pim13",
+        "url": "https://www.festo.com/in/en/c/products/motors-and-servo-drives-id_pim13/",
+        "sub_categories": [
+            {
+                "name": "Servo motors",
+                "pimId": "pim101",
+                "url": "https://www.festo.com/in/en/c/products/motors-and-servo-drives/servo-motors-id_pim101/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Stepper motors",
+                "pimId": "pim102",
+                "url": "https://www.festo.com/in/en/c/products/motors-and-servo-drives/stepper-motors-id_pim102/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Servo drive",
+                "pimId": "pim239",
+                "url": "https://www.festo.com/in/en/c/products/motors-and-servo-drives/servo-drive-id_pim239/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Planetary gearboxes",
+                "pimId": "pim105",
+                "url": "https://www.festo.com/in/en/c/products/motors-and-servo-drives/planetary-gearboxes-id_pim105/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for servo drives",
+                "pimId": "pim106",
+                "url": "https://www.festo.com/in/en/c/products/motors-and-servo-drives/accessories-for-servo-drives-id_pim106/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Grippers",
+        "pimId": "pim227",
+        "url": "https://www.festo.com/in/en/c/products/grippers-id_pim227/",
+        "sub_categories": [
+            {
+                "name": "Parallel grippers",
+                "pimId": "pim487",
+                "url": "https://www.festo.com/in/en/c/products/grippers/parallel-grippers-id_pim487/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": true
+            },
+            {
+                "name": "Three finger grippers",
+                "pimId": "pim488",
+                "url": "https://www.festo.com/in/en/c/products/grippers/three-finger-grippers-id_pim488/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Angular grippers",
+                "pimId": "pim489",
+                "url": "https://www.festo.com/in/en/c/products/grippers/angular-grippers-id_pim489/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Radial grippers",
+                "pimId": "pim490",
+                "url": "https://www.festo.com/in/en/c/products/grippers/radial-grippers-id_pim490/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Swivel/gripper units",
+                "pimId": "pim491",
+                "url": "https://www.festo.com/in/en/c/products/grippers/swivel-gripper-units-id_pim491/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Bellows grippers",
+                "pimId": "pim492",
+                "url": "https://www.festo.com/in/en/c/products/grippers/bellows-grippers-id_pim492/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for grippers",
+                "pimId": "pim417",
+                "url": "https://www.festo.com/in/en/c/products/grippers/accessories-for-grippers-id_pim417/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Industrial robots",
+        "pimId": "pim17",
+        "url": "https://www.festo.com/in/en/c/products/industrial-robots-id_pim17/",
+        "sub_categories": [
+            {
+                "name": "Pneumatic pick and place",
+                "pimId": "pim107",
+                "url": "https://www.festo.com/in/en/c/products/industrial-robots/pneumatic-pick-and-place-id_pim107/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Cartesian robots",
+                "pimId": "pim108",
+                "url": "https://www.festo.com/in/en/c/products/industrial-robots/cartesian-robots-id_pim108/",
+                "sub_categories": [
+                    {
+                        "name": "Single axis robots",
+                        "pimId": "pim244",
+                        "url": "https://www.festo.com/in/en/c/products/industrial-robots/cartesian-robots/single-axis-robots-id_pim244/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Two axis robots",
+                        "pimId": "pim245",
+                        "url": "https://www.festo.com/in/en/c/products/industrial-robots/cartesian-robots/two-axis-robots-id_pim245/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Gantry robots",
+                        "pimId": "pim246",
+                        "url": "https://www.festo.com/in/en/c/products/industrial-robots/cartesian-robots/gantry-robots-id_pim246/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Three axis robots",
+                        "pimId": "pim247",
+                        "url": "https://www.festo.com/in/en/c/products/industrial-robots/cartesian-robots/three-axis-robots-id_pim247/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "3D cantilever systems",
+                        "pimId": "pim548",
+                        "url": "https://www.festo.com/in/en/c/products/industrial-robots/cartesian-robots/3d-cantilever-systems-id_pim548/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Delta robots",
+                "pimId": "pim109",
+                "url": "https://www.festo.com/in/en/c/products/industrial-robots/delta-robots-id_pim109/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Dosing and pipetting heads",
+                "pimId": "pim580",
+                "url": "https://www.festo.com/in/en/c/products/industrial-robots/dosing-and-pipetting-heads-id_pim580/",
+                "sub_categories": [
+                    {
+                        "name": "Dosing heads",
+                        "pimId": "pim555",
+                        "url": "https://www.festo.com/in/en/c/products/industrial-robots/dosing-and-pipetting-heads/dosing-heads-id_pim555/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories",
+                        "pimId": "pim581",
+                        "url": "https://www.festo.com/in/en/c/products/industrial-robots/dosing-and-pipetting-heads/accessories-id_pim581/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Robotic control systems",
+                "pimId": "pim110",
+                "url": "https://www.festo.com/in/en/c/products/industrial-robots/robotic-control-systems-id_pim110/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for handling modules",
+                "pimId": "pim111",
+                "url": "https://www.festo.com/in/en/c/products/industrial-robots/accessories-for-handling-modules-id_pim111/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Vacuum technologies",
+        "pimId": "pim20",
+        "url": "https://www.festo.com/in/en/c/products/vacuum-technologies-id_pim20/",
+        "sub_categories": [
+            {
+                "name": "Vacuum generators",
+                "pimId": "pim112",
+                "url": "https://www.festo.com/in/en/c/products/vacuum-technologies/vacuum-generators-id_pim112/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Vacuum suction cups",
+                "pimId": "pim113",
+                "url": "https://www.festo.com/in/en/c/products/vacuum-technologies/vacuum-suction-cups-id_pim113/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Classic",
+                "pimId": "pim526",
+                "url": "https://www.festo.com/in/en/c/products/vacuum-technologies/classic-id_pim526/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for vacuum",
+                "pimId": "pim114",
+                "url": "https://www.festo.com/in/en/c/products/vacuum-technologies/accessories-for-vacuum-id_pim114/",
+                "sub_categories": [
+                    {
+                        "name": "Assembly and connection components",
+                        "pimId": "pim248",
+                        "url": "https://www.festo.com/in/en/c/products/vacuum-technologies/accessories-for-vacuum/assembly-and-connection-components-id_pim248/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Compensating components",
+                        "pimId": "pim249",
+                        "url": "https://www.festo.com/in/en/c/products/vacuum-technologies/accessories-for-vacuum/compensating-components-id_pim249/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Vacuum displays",
+                        "pimId": "pim250",
+                        "url": "https://www.festo.com/in/en/c/products/vacuum-technologies/accessories-for-vacuum/vacuum-displays-id_pim250/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Vacuum filter",
+                        "pimId": "pim251",
+                        "url": "https://www.festo.com/in/en/c/products/vacuum-technologies/accessories-for-vacuum/vacuum-filter-id_pim251/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Vacuum security valves",
+                        "pimId": "pim252",
+                        "url": "https://www.festo.com/in/en/c/products/vacuum-technologies/accessories-for-vacuum/vacuum-security-valves-id_pim252/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Vacuum-specific accessories",
+                        "pimId": "pim253",
+                        "url": "https://www.festo.com/in/en/c/products/vacuum-technologies/accessories-for-vacuum/vacuum-specific-accessories-id_pim253/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Valves and valve terminals",
+        "pimId": "pim23",
+        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals-id_pim23/",
+        "sub_categories": [
+            {
+                "name": "Electrically and pneumatically actuated directional control valves",
+                "pimId": "pim115",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/electrically-and-pneumatically-actuated-directional-control-valves-id_pim115/",
+                "sub_categories": [
+                    {
+                        "name": "Standards-based directional control valves",
+                        "pimId": "pim229",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/electrically-and-pneumatically-actuated-directional-control-valves/standards-based-directional-control-valves-id_pim229/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Universal directional control valves",
+                        "pimId": "pim254",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/electrically-and-pneumatically-actuated-directional-control-valves/universal-directional-control-valves-id_pim254/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Application-specific directional control valves",
+                        "pimId": "pim255",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/electrically-and-pneumatically-actuated-directional-control-valves/application-specific-directional-control-valves-id_pim255/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Mechanically & hand operated pneumatic valves",
+                "pimId": "pim116",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/mechanically-hand-operated-pneumatic-valves-id_pim116/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Stop valves",
+                "pimId": "pim117",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/stop-valves-id_pim117/",
+                "sub_categories": [
+                    {
+                        "name": "Check valves",
+                        "pimId": "pim256",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/stop-valves/check-valves-id_pim256/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Quick exhaust valves",
+                        "pimId": "pim694",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/stop-valves/quick-exhaust-valves-id_pim694/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Ball valves and on off valves",
+                        "pimId": "pim257",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/stop-valves/ball-valves-and-on-off-valves-id_pim257/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic logic valves",
+                        "pimId": "pim258",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/stop-valves/pneumatic-logic-valves-id_pim258/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Pressure control fittings",
+                "pimId": "pim118",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/pressure-control-fittings-id_pim118/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Flow control valves",
+                "pimId": "pim119",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/flow-control-valves-id_pim119/",
+                "sub_categories": [
+                    {
+                        "name": "One-way check valves",
+                        "pimId": "pim259",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/flow-control-valves/one-way-check-valves-id_pim259/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Throttle valves",
+                        "pimId": "pim260",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/flow-control-valves/throttle-valves-id_pim260/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic timers",
+                        "pimId": "pim261",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/flow-control-valves/pneumatic-timers-id_pim261/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Proportional pneumatic valves",
+                "pimId": "pim120",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/proportional-pneumatic-valves-id_pim120/",
+                "sub_categories": [
+                    {
+                        "name": "Proportional flow control valves",
+                        "pimId": "pim369",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/proportional-pneumatic-valves/proportional-flow-control-valves-id_pim369/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Proportional pressure control valves",
+                        "pimId": "pim370",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/proportional-pneumatic-valves/proportional-pressure-control-valves-id_pim370/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Process and media valves",
+                "pimId": "pim21",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves-id_pim21/",
+                "sub_categories": [
+                    {
+                        "name": "Ball valves",
+                        "pimId": "pim136",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/ball-valves-id_pim136/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Angle seat valves",
+                        "pimId": "pim186",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/angle-seat-valves-id_pim186/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pinch valves",
+                        "pimId": "pim204",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/pinch-valves-id_pim204/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Solenoid media valves",
+                        "pimId": "pim206",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/solenoid-media-valves-id_pim206/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Process valve units",
+                        "pimId": "pim513",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/process-valve-units-id_pim513/",
+                        "sub_categories": [
+                            {
+                                "name": "Ball valve assembly",
+                                "pimId": "pim516",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/process-valve-units/ball-valve-assembly-id_pim516/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Actuated ball valves",
+                                "pimId": "pim514",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/process-valve-units/actuated-ball-valves-id_pim514/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Butterfly valve assembly",
+                                "pimId": "pim515",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/process-valve-units/butterfly-valve-assembly-id_pim515/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pneumatically actuated media valves",
+                        "pimId": "pim524",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/pneumatically-actuated-media-valves-id_pim524/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Dosing and pipetting heads",
+                        "pimId": "pim700",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/dosing-and-pipetting-heads-id_pim700/",
+                        "sub_categories": [
+                            {
+                                "name": "Dosing heads",
+                                "pimId": "pim701",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/dosing-and-pipetting-heads/dosing-heads-id_pim701/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Accessories",
+                                "pimId": "pim703",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/process-and-media-valves/dosing-and-pipetting-heads/accessories-id_pim703/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Piezo valves",
+                "pimId": "pim123",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/piezo-valves-id_pim123/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Pneumatic controls",
+                "pimId": "pim124",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/pneumatic-controls-id_pim124/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Classic",
+                "pimId": "pim529",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/classic-id_pim529/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for valves",
+                "pimId": "pim125",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves-id_pim125/",
+                "sub_categories": [
+                    {
+                        "name": "Adapter plates",
+                        "pimId": "pim262",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/adapter-plates-id_pim262/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Cover plates",
+                        "pimId": "pim263",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/cover-plates-id_pim263/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Sealing elements and separators",
+                        "pimId": "pim264",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/sealing-elements-and-separators-id_pim264/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "End plates",
+                        "pimId": "pim265",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/end-plates-id_pim265/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Function components",
+                        "pimId": "pim266",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/function-components-id_pim266/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Manifold rails",
+                        "pimId": "pim267",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/manifold-rails-id_pim267/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Sub-bases",
+                        "pimId": "pim268",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/sub-bases-id_pim268/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Manifold sub-bases",
+                        "pimId": "pim269",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/manifold-sub-bases-id_pim269/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Solenoid coils",
+                        "pimId": "pim270",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/solenoid-coils-id_pim270/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Mounting components and inscription labels",
+                        "pimId": "pim271",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/mounting-components-and-inscription-labels-id_pim271/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Actuator attachments",
+                        "pimId": "pim272",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/actuator-attachments-id_pim272/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Multi-pin plug distributors",
+                        "pimId": "pim273",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/multi-pin-plug-distributors-id_pim273/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Valve-specific accessories",
+                        "pimId": "pim274",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/valve-specific-accessories-id_pim274/",
+                        "sub_categories": [
+                            {
+                                "name": "Electrical connection components",
+                                "pimId": "pim419",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/valve-specific-accessories/electrical-connection-components-id_pim419/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Wearing parts",
+                                "pimId": "pim418",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/valve-specific-accessories/wearing-parts-id_pim418/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Dosing elements",
+                                "pimId": "pim525",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/valve-specific-accessories/dosing-elements-id_pim525/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Stop elements",
+                                "pimId": "pim523",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/accessories-for-valves/valve-specific-accessories/stop-elements-id_pim523/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Valve manifolds",
+                "pimId": "pim172",
+                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds-id_pim172/",
+                "sub_categories": [
+                    {
+                        "name": "Standards-based valve terminals",
+                        "pimId": "pim242",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/standards-based-valve-terminals-id_pim242/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Universal valve terminals",
+                        "pimId": "pim275",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/universal-valve-terminals-id_pim275/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Application-specific valve terminals",
+                        "pimId": "pim276",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/application-specific-valve-terminals-id_pim276/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Classic",
+                        "pimId": "pim530",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/classic-id_pim530/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Electrical peripherals",
+                        "pimId": "pim277",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/electrical-peripherals-id_pim277/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories for valve terminals",
+                        "pimId": "pim278",
+                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals-id_pim278/",
+                        "sub_categories": [
+                            {
+                                "name": "Valves",
+                                "pimId": "pim420",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/valves-id_pim420/",
+                                "sub_categories": [
+                                    {
+                                        "name": "Valve modules to standard",
+                                        "pimId": "pim493",
+                                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/valves/valve-modules-to-standard-id_pim493/",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    },
+                                    {
+                                        "name": "Universal valve modules",
+                                        "pimId": "pim494",
+                                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/valves/universal-valve-modules-id_pim494/",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    },
+                                    {
+                                        "name": "Application-specific valve modules",
+                                        "pimId": "pim495",
+                                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/valves/application-specific-valve-modules-id_pim495/",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sub-bases, manifold rails",
+                                "pimId": "pim421",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/sub-bases-manifold-rails-id_pim421/",
+                                "sub_categories": [
+                                    {
+                                        "name": "Universal valve modules",
+                                        "pimId": "pim497",
+                                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/sub-bases-manifold-rails/universal-valve-modules-id_pim497/",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    },
+                                    {
+                                        "name": "Application-specific valve modules",
+                                        "pimId": "pim498",
+                                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/sub-bases-manifold-rails/application-specific-valve-modules-id_pim498/",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Function components",
+                                "pimId": "pim422",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/function-components-id_pim422/",
+                                "sub_categories": [
+                                    {
+                                        "name": "Universal valve modules",
+                                        "pimId": "pim500",
+                                        "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/function-components/universal-valve-modules-id_pim500/",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mounting components and inscription labels",
+                                "pimId": "pim423",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/mounting-components-and-inscription-labels-id_pim423/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Components for electrical linking",
+                                "pimId": "pim424",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/components-for-electrical-linking-id_pim424/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Sealing elements and separators",
+                                "pimId": "pim425",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/sealing-elements-and-separators-id_pim425/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pressure indicators",
+                                "pimId": "pim426",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/pressure-indicators-id_pim426/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Relay plates",
+                                "pimId": "pim428",
+                                "url": "https://www.festo.com/in/en/c/products/valves-and-valve-terminals/valve-manifolds/accessories-for-valve-terminals/relay-plates-id_pim428/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Motion Terminal",
+        "pimId": "pim502",
+        "url": "https://www.festo.com/in/en/c/products/motion-terminal-id_pim502/",
+        "sub_categories": []
+    },
+    {
+        "name": "Sensors",
+        "pimId": "pim26",
+        "url": "https://www.festo.com/in/en/c/products/sensors-id_pim26/",
+        "sub_categories": [
+            {
+                "name": "Cylinder sensors",
+                "pimId": "pim128",
+                "url": "https://www.festo.com/in/en/c/products/sensors/cylinder-sensors-id_pim128/",
+                "sub_categories": [
+                    {
+                        "name": "T-slot cylinder sensors",
+                        "pimId": "pim279",
+                        "url": "https://www.festo.com/in/en/c/products/sensors/cylinder-sensors/t-slot-cylinder-sensors-id_pim279/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "C-slot cylinder sensors",
+                        "pimId": "pim280",
+                        "url": "https://www.festo.com/in/en/c/products/sensors/cylinder-sensors/c-slot-cylinder-sensors-id_pim280/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Cylinder sensors block design",
+                        "pimId": "pim282",
+                        "url": "https://www.festo.com/in/en/c/products/sensors/cylinder-sensors/cylinder-sensors-block-design-id_pim282/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Cylinder signal generators",
+                        "pimId": "pim503",
+                        "url": "https://www.festo.com/in/en/c/products/sensors/cylinder-sensors/cylinder-signal-generators-id_pim503/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Inductive proximity switches",
+                "pimId": "pim129",
+                "url": "https://www.festo.com/in/en/c/products/sensors/inductive-proximity-switches-id_pim129/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Position sensors",
+                "pimId": "pim130",
+                "url": "https://www.festo.com/in/en/c/products/sensors/position-sensors-id_pim130/",
+                "sub_categories": [
+                    {
+                        "name": "Position transmitters",
+                        "pimId": "pim707",
+                        "url": "https://www.festo.com/in/en/c/products/sensors/position-sensors/position-transmitters-id_pim707/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Position sensors for rotary drives",
+                        "pimId": "pim708",
+                        "url": "https://www.festo.com/in/en/c/products/sensors/position-sensors/position-sensors-for-rotary-drives-id_pim708/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Position sensors for grippers",
+                        "pimId": "pim716",
+                        "url": "https://www.festo.com/in/en/c/products/sensors/position-sensors/position-sensors-for-grippers-id_pim716/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Displacement encoders",
+                        "pimId": "pim709",
+                        "url": "https://www.festo.com/in/en/c/products/sensors/position-sensors/displacement-encoders-id_pim709/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Pressure and vacuum sensors",
+                "pimId": "pim131",
+                "url": "https://www.festo.com/in/en/c/products/sensors/pressure-and-vacuum-sensors-id_pim131/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Flow sensors",
+                "pimId": "pim132",
+                "url": "https://www.festo.com/in/en/c/products/sensors/flow-sensors-id_pim132/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Optical sensors",
+                "pimId": "pim134",
+                "url": "https://www.festo.com/in/en/c/products/sensors/optical-sensors-id_pim134/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Signal converters",
+                "pimId": "pim138",
+                "url": "https://www.festo.com/in/en/c/products/sensors/signal-converters-id_pim138/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Limit switch attachments",
+                "pimId": "pim12",
+                "url": "https://www.festo.com/in/en/c/products/sensors/limit-switch-attachments-id_pim12/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Classic",
+                "pimId": "pim531",
+                "url": "https://www.festo.com/in/en/c/products/sensors/classic-id_pim531/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Air gap sensors",
+                "pimId": "pim139",
+                "url": "https://www.festo.com/in/en/c/products/sensors/air-gap-sensors-id_pim139/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories",
+                "pimId": "pim141",
+                "url": "https://www.festo.com/in/en/c/products/sensors/accessories-id_pim141/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Compressed air preparation",
+        "pimId": "pim31",
+        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation-id_pim31/",
+        "sub_categories": [
+            {
+                "name": "Air preparation combination units",
+                "pimId": "pim142",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/air-preparation-combination-units-id_pim142/",
+                "sub_categories": [
+                    {
+                        "name": "MS basic series",
+                        "pimId": "pim661",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/air-preparation-combination-units/ms-basic-series-id_pim661/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "MS series",
+                        "pimId": "pim283",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/air-preparation-combination-units/ms-series-id_pim283/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Filter regulator lubricators (FRL)",
+                "pimId": "pim143",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/filter-regulator-lubricators-frl-id_pim143/",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim286",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/filter-regulator-lubricators-frl-/ms-series-id_pim286/",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Filter regulators",
+                "pimId": "pim144",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/filter-regulators-id_pim144/",
+                "sub_categories": [
+                    {
+                        "name": "MS basic series",
+                        "pimId": "pim544",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/filter-regulators/ms-basic-series-id_pim544/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "MS series",
+                        "pimId": "pim289",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/filter-regulators/ms-series-id_pim289/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim376",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/filter-regulators/individual-devices-id_pim376/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Compressed air filters",
+                "pimId": "pim145",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-filters-id_pim145/",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim292",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-filters/ms-series-id_pim292/",
+                        "sub_categories": [
+                            {
+                                "name": "Filters MS-LF",
+                                "pimId": "pim429",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-filters/ms-series/filters-ms-lf-id_pim429/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Fine and micro filters MS-LFM",
+                                "pimId": "pim430",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-filters/ms-series/fine-and-micro-filters-ms-lfm-id_pim430/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Activated carbon filter MS-LFX",
+                                "pimId": "pim431",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-filters/ms-series/activated-carbon-filter-ms-lfx-id_pim431/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS basic series",
+                        "pimId": "pim692",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-filters/ms-basic-series-id_pim692/",
+                        "sub_categories": [
+                            {
+                                "name": "Filter MS-LF-B",
+                                "pimId": "pim693",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-filters/ms-basic-series/filter-ms-lf-b-id_pim693/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim294",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-filters/individual-devices-id_pim294/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Filter cartridges",
+                        "pimId": "pim295",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-filters/filter-cartridges-id_pim295/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Pressure regulators",
+                "pimId": "pim146",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/pressure-regulators-id_pim146/",
+                "sub_categories": [
+                    {
+                        "name": "MS basic series",
+                        "pimId": "pim527",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/pressure-regulators/ms-basic-series-id_pim527/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "MS series",
+                        "pimId": "pim296",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/pressure-regulators/ms-series-id_pim296/",
+                        "sub_categories": [
+                            {
+                                "name": "Pressure regulators MS-LR",
+                                "pimId": "pim432",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/pressure-regulators/ms-series/pressure-regulators-ms-lr-id_pim432/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pressure regulators for manifold assembly MS-LRB",
+                                "pimId": "pim433",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/pressure-regulators/ms-series/pressure-regulators-for-manifold-assembly-ms-lrb-id_pim433/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Precision pressure regulators MS-LRP",
+                                "pimId": "pim434",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/pressure-regulators/ms-series/precision-pressure-regulators-ms-lrp-id_pim434/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Precision pressure regulators for manifold assembly MS-LRPB",
+                                "pimId": "pim435",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/pressure-regulators/ms-series/precision-pressure-regulators-for-manifold-assembly-ms-lrpb-id_pim435/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim299",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/pressure-regulators/individual-devices-id_pim299/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Air lubricators",
+                "pimId": "pim147",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/air-lubricators-id_pim147/",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim300",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/air-lubricators/ms-series-id_pim300/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Shut off valves and soft-start dump valves",
+                "pimId": "pim148",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/shut-off-valves-and-soft-start-dump-valves-id_pim148/",
+                "sub_categories": [
+                    {
+                        "name": "MS basic series",
+                        "pimId": "pim656",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/shut-off-valves-and-soft-start-dump-valves/ms-basic-series-id_pim656/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "MS series",
+                        "pimId": "pim302",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/shut-off-valves-and-soft-start-dump-valves/ms-series-id_pim302/",
+                        "sub_categories": [
+                            {
+                                "name": "Soft-start/quick exhaust valves MS-SV",
+                                "pimId": "pim437",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/shut-off-valves-and-soft-start-dump-valves/ms-series/soft-start-quick-exhaust-valves-ms-sv-id_pim437/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Manually operated on/off valves MS-EM",
+                                "pimId": "pim438",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/shut-off-valves-and-soft-start-dump-valves/ms-series/manually-operated-on-off-valves-ms-em-id_pim438/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Solenoid actuated on/off valves MS-EE",
+                                "pimId": "pim439",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/shut-off-valves-and-soft-start-dump-valves/ms-series/solenoid-actuated-on-off-valves-ms-ee-id_pim439/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pneumatically actuated soft-start valves MS-DL",
+                                "pimId": "pim440",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/shut-off-valves-and-soft-start-dump-valves/ms-series/pneumatically-actuated-soft-start-valves-ms-dl-id_pim440/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Solenoid actuated soft-start valves MS-DE",
+                                "pimId": "pim441",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/shut-off-valves-and-soft-start-dump-valves/ms-series/solenoid-actuated-soft-start-valves-ms-de-id_pim441/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim305",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/shut-off-valves-and-soft-start-dump-valves/individual-devices-id_pim305/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Air dryers",
+                "pimId": "pim149",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/air-dryers-id_pim149/",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim306",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/air-dryers/ms-series-id_pim306/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim308",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/air-dryers/individual-devices-id_pim308/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Compressed air porting blocks",
+                "pimId": "pim150",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-porting-blocks-id_pim150/",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim309",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-porting-blocks/ms-series-id_pim309/",
+                        "sub_categories": [
+                            {
+                                "name": "Branching module MS-FRM",
+                                "pimId": "pim442",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-porting-blocks/ms-series/branching-module-ms-frm-id_pim442/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Distributor block MS-FRM-FRZ",
+                                "pimId": "pim443",
+                                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-porting-blocks/ms-series/distributor-block-ms-frm-frz-id_pim443/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim311",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/compressed-air-porting-blocks/individual-devices-id_pim311/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Generators",
+                "pimId": "pim679",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/generators-id_pim679/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Condensate drains",
+                "pimId": "pim151",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/condensate-drains-id_pim151/",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim312",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/condensate-drains/ms-series-id_pim312/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim371",
+                        "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/condensate-drains/individual-devices-id_pim371/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Air boosters",
+                "pimId": "pim152",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/air-boosters-id_pim152/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Pressure gauges",
+                "pimId": "pim153",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/pressure-gauges-id_pim153/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Classic",
+                "pimId": "pim532",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/classic-id_pim532/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for air preparation",
+                "pimId": "pim154",
+                "url": "https://www.festo.com/in/en/c/products/compressed-air-preparation/accessories-for-air-preparation-id_pim154/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Tubes, fittings, plugs and cables",
+        "pimId": "pim33",
+        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables-id_pim33/",
+        "sub_categories": [
+            {
+                "name": "Electrical connection technology",
+                "pimId": "pim208",
+                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology-id_pim208/",
+                "sub_categories": [
+                    {
+                        "name": "Connecting cables",
+                        "pimId": "pim322",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/connecting-cables-id_pim322/",
+                        "sub_categories": [
+                            {
+                                "name": "Connecting cables, universal",
+                                "pimId": "pim451",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/connecting-cables/connecting-cables-universal-id_pim451/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Connecting cables for controllers",
+                                "pimId": "pim452",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/connecting-cables/connecting-cables-for-controllers-id_pim452/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Connecting cables for motors",
+                                "pimId": "pim453",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/connecting-cables/connecting-cables-for-motors-id_pim453/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Connecting cables for valves",
+                                "pimId": "pim454",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/connecting-cables/connecting-cables-for-valves-id_pim454/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Connecting cables for valve terminals",
+                                "pimId": "pim455",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/connecting-cables/connecting-cables-for-valve-terminals-id_pim455/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Connecting cables for sensors",
+                                "pimId": "pim456",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/connecting-cables/connecting-cables-for-sensors-id_pim456/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plug connectors",
+                        "pimId": "pim323",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/plug-connectors-id_pim323/",
+                        "sub_categories": [
+                            {
+                                "name": "Universal plugs",
+                                "pimId": "pim457",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/plug-connectors/universal-plugs-id_pim457/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Plugs for controllers",
+                                "pimId": "pim458",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/plug-connectors/plugs-for-controllers-id_pim458/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Plugs for valves",
+                                "pimId": "pim459",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/plug-connectors/plugs-for-valves-id_pim459/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Plugs for valve terminals",
+                                "pimId": "pim460",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/plug-connectors/plugs-for-valve-terminals-id_pim460/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Plugs for sensors",
+                                "pimId": "pim461",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/plug-connectors/plugs-for-sensors-id_pim461/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Plugs for motors",
+                                "pimId": "pim518",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/plug-connectors/plugs-for-motors-id_pim518/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Classic",
+                        "pimId": "pim697",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/classic-id_pim697/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories for electrical connection technology",
+                        "pimId": "pim324",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/electrical-connection-technology/accessories-for-electrical-connection-technology-id_pim324/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Pneumatic connection technology",
+                "pimId": "pim209",
+                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology-id_pim209/",
+                "sub_categories": [
+                    {
+                        "name": "Pneumatic tubing",
+                        "pimId": "pim314",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-tubing-id_pim314/",
+                        "sub_categories": [
+                            {
+                                "name": "Standard pneumatic tubing",
+                                "pimId": "pim444",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-tubing/standard-pneumatic-tubing-id_pim444/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Standard I.D. tubing",
+                                "pimId": "pim445",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-tubing/standard-i-d-tubing-id_pim445/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Spiral tubing",
+                                "pimId": "pim446",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-tubing/spiral-tubing-id_pim446/",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pneumatic fittings",
+                        "pimId": "pim315",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-fittings-id_pim315/",
+                        "sub_categories": [
+                            {
+                                "name": "Push-in fittings",
+                                "pimId": "pim447",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-fittings/push-in-fittings-id_pim447/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Barbed fittings",
+                                "pimId": "pim448",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-fittings/barbed-fittings-id_pim448/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Threaded fittings",
+                                "pimId": "pim449",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-fittings/threaded-fittings-id_pim449/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Click fittings",
+                                "pimId": "pim450",
+                                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-fittings/click-fittings-id_pim450/",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pneumatic piping systems",
+                        "pimId": "pim316",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-piping-systems-id_pim316/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic piping fittings",
+                        "pimId": "pim317",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-piping-fittings-id_pim317/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic couplings",
+                        "pimId": "pim318",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-couplings-id_pim318/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic multi connectors",
+                        "pimId": "pim319",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-multi-connectors-id_pim319/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic conduits",
+                        "pimId": "pim320",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/pneumatic-conduits-id_pim320/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Classic",
+                        "pimId": "pim695",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/classic-id_pim695/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories for pneumatic connection technology",
+                        "pimId": "pim321",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/pneumatic-connection-technology/accessories-for-pneumatic-connection-technology-id_pim321/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Connection technology for fluid media",
+                "pimId": "pim542",
+                "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/connection-technology-for-fluid-media-id_pim542/",
+                "sub_categories": [
+                    {
+                        "name": "Fittings for liquid media",
+                        "pimId": "pim543",
+                        "url": "https://www.festo.com/in/en/c/products/tubes-fittings-plugs-and-cables/connection-technology-for-fluid-media/fittings-for-liquid-media-id_pim543/",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Control technology and remote I/O",
+        "pimId": "pim37",
+        "url": "https://www.festo.com/in/en/c/products/control-technology-and-remote-i-o-id_pim37/",
+        "sub_categories": [
+            {
+                "name": "Pneumatic logic control",
+                "pimId": "pim155",
+                "url": "https://www.festo.com/in/en/c/products/control-technology-and-remote-i-o/pneumatic-logic-control-id_pim155/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Programmable logic controllers (PLC)",
+                "pimId": "pim156",
+                "url": "https://www.festo.com/in/en/c/products/control-technology-and-remote-i-o/programmable-logic-controllers-plc-id_pim156/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Remote I/O and network interface components",
+                "pimId": "pim157",
+                "url": "https://www.festo.com/in/en/c/products/control-technology-and-remote-i-o/remote-i-o-and-network-interface-components-id_pim157/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Controllers and motion control",
+                "pimId": "pim241",
+                "url": "https://www.festo.com/in/en/c/products/control-technology-and-remote-i-o/controllers-and-motion-control-id_pim241/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Human machine interface (HMI)",
+                "pimId": "pim158",
+                "url": "https://www.festo.com/in/en/c/products/control-technology-and-remote-i-o/human-machine-interface-hmi-id_pim158/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Valve positioners",
+                "pimId": "pim15",
+                "url": "https://www.festo.com/in/en/c/products/control-technology-and-remote-i-o/valve-positioners-id_pim15/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Documentation",
+                "pimId": "pim213",
+                "url": "https://www.festo.com/in/en/c/products/control-technology-and-remote-i-o/documentation-id_pim213/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories",
+                "pimId": "pim212",
+                "url": "https://www.festo.com/in/en/c/products/control-technology-and-remote-i-o/accessories-id_pim212/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Training systems",
+                "pimId": "pim507",
+                "url": "https://www.festo.com/in/en/c/products/control-technology-and-remote-i-o/training-systems-id_pim507/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Software",
+        "pimId": "pim160",
+        "url": "https://www.festo.com/in/en/c/products/software-id_pim160/",
+        "sub_categories": []
+    },
+    {
+        "name": "Function-specific systems",
+        "pimId": "pim39",
+        "url": "https://www.festo.com/in/en/c/products/function-specific-systems-id_pim39/",
+        "sub_categories": [
+            {
+                "name": "Servo press systems",
+                "pimId": "pim202",
+                "url": "https://www.festo.com/in/en/c/products/function-specific-systems/servo-press-systems-id_pim202/",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Pneumatic balancers",
+                "pimId": "pim214",
+                "url": "https://www.festo.com/in/en/c/products/function-specific-systems/pneumatic-balancers-id_pim214/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Other pneumatic components",
+        "pimId": "pim40",
+        "url": "https://www.festo.com/in/en/c/products/other-pneumatic-components-id_pim40/",
+        "sub_categories": [
+            {
+                "name": "Air reservoirs",
+                "pimId": "pim162",
+                "url": "https://www.festo.com/in/en/c/products/other-pneumatic-components/air-reservoirs-id_pim162/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Pneumatic silencers",
+                "pimId": "pim163",
+                "url": "https://www.festo.com/in/en/c/products/other-pneumatic-components/pneumatic-silencers-id_pim163/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Compressed air guns",
+                "pimId": "pim164",
+                "url": "https://www.festo.com/in/en/c/products/other-pneumatic-components/compressed-air-guns-id_pim164/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Pressure indicators",
+                "pimId": "pim165",
+                "url": "https://www.festo.com/in/en/c/products/other-pneumatic-components/pressure-indicators-id_pim165/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Labelling systems",
+                "pimId": "pim166",
+                "url": "https://www.festo.com/in/en/c/products/other-pneumatic-components/labelling-systems-id_pim166/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Services",
+        "pimId": "pim646",
+        "url": "https://www.festo.com/in/en/c/products/services-id_pim646/",
+        "sub_categories": [
+            {
+                "name": "Commissioning services",
+                "pimId": "pim647",
+                "url": "https://www.festo.com/in/en/c/products/services/commissioning-services-id_pim647/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Energy Saving Services",
+                "pimId": "pim648",
+                "url": "https://www.festo.com/in/en/c/products/services/energy-saving-services-id_pim648/",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    }
+]

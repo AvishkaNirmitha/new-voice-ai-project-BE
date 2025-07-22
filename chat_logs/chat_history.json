@@ -1,97 +1,25 @@
 {
-  "room_name": "voice_assistant_room_6477",
-  "session_start": "2025-07-20T23:44:57.068746",
-  "last_updated": "2025-07-20T23:46:25.339804",
-  "message_count": 10,
+  "room_name": "fake_room",
+  "session_start": "2025-07-21T14:21:00.806686",
+  "last_updated": "2025-07-21T14:22:02.189832",
+  "message_count": 2,
   "messages": [
     {
-      "timestamp": "2025-07-20T23:44:57.068746",
+      "timestamp": "2025-07-21T14:21:00.806686",
       "role": "system",
       "content": "Session started",
       "metadata": {
         "event": "session_start",
-        "room": "voice_assistant_room_6477"
+        "room": "fake_room"
       }
     },
     {
-      "timestamp": "2025-07-20T23:45:05.625694",
-      "role": "system",
-      "content": "Function call: lookup_weather(location='London')",
-      "metadata": {
-        "function": "lookup_weather",
-        "location": "London"
-      }
-    },
-    {
-      "timestamp": "2025-07-20T23:45:05.626701",
-      "role": "system",
-      "content": "Function result: sunny with a temperature of 70 degrees.",
-      "metadata": {
-        "function": "lookup_weather",
-        "result": "sunny with a temperature of 70 degrees."
-      }
-    },
-    {
-      "timestamp": "2025-07-20T23:45:05.627703",
-      "role": "system",
-      "content": "Function call: calculatedAdvacedTemp(temperature=0.0)",
-      "metadata": {
-        "function": "calculatedAdvacedTemp",
-        "temperature": 0.0
-      }
-    },
-    {
-      "timestamp": "2025-07-20T23:45:05.629715",
-      "role": "system",
-      "content": "Function result: 0.0",
-      "metadata": {
-        "function": "calculatedAdvacedTemp",
-        "result": 0.0
-      }
-    },
-    {
-      "timestamp": "2025-07-20T23:45:43.605168",
-      "role": "system",
-      "content": "Function call: lookup_weather(location='London')",
-      "metadata": {
-        "function": "lookup_weather",
-        "location": "London"
-      }
-    },
-    {
-      "timestamp": "2025-07-20T23:45:43.605168",
-      "role": "system",
-      "content": "Function result: sunny with a temperature of 70 degrees.",
-      "metadata": {
-        "function": "lookup_weather",
-        "result": "sunny with a temperature of 70 degrees."
-      }
-    },
-    {
-      "timestamp": "2025-07-20T23:45:43.606740",
-      "role": "system",
-      "content": "Function call: calculatedAdvacedTemp(temperature=70.0)",
-      "metadata": {
-        "function": "calculatedAdvacedTemp",
-        "temperature": 70.0
-      }
-    },
-    {
-      "timestamp": "2025-07-20T23:45:43.606740",
-      "role": "system",
-      "content": "Function result: 700.0",
-      "metadata": {
-        "function": "calculatedAdvacedTemp",
-        "result": 700.0
-      }
-    },
-    {
-      "timestamp": "2025-07-20T23:46:25.339804",
+      "timestamp": "2025-07-21T14:22:02.189832",
       "role": "system",
       "content": "Session ended",
       "metadata": {
         "event": "session_end",
-        "usage_summary": "UsageSummary(llm_prompt_tokens=1349, llm_prompt_cached_tokens=0, llm_completion_tokens=165, tts_characters_count=373, tts_audio_duration=22.32200000000001, stt_audio_duration=11.656)"
+        "usage_summary": "UsageSummary(llm_prompt_tokens=1055, llm_prompt_cached_tokens=0, llm_completion_tokens=290, tts_characters_count=636, tts_audio_duration=30.358000000000008, stt_audio_duration=4.752)"
       }
     }
   ]

@@ -1,0 +1,571 @@
+[
+    {
+        "subcategory_name": "Round cylinders",
+        "subcategory_id": "pim378",
+        "engineering_tools": [
+            {
+                "name": "Pneumatic Simulation",
+                "configuratorLink": "https://www.festo.com/x/pneumatic-simulation",
+                "description": "Supports the selection and configuration of the pneumatic control sequence."
+            },
+            {
+                "name": "Cylinder air consumption calculation",
+                "configuratorLink": "https://www.festo.com/x/air-consumption",
+                "description": "Calculate the air consumption of a pneumatic cylinder for system optimisation."
+            },
+            {
+                "name": "Pneumatic sizing",
+                "configuratorLink": "https://www.festo.com/x/pneumatic-sizing",
+                "description": "Calculate the ideal pneumatic control chain."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Profile cylinder and tie rod cylinder",
+        "subcategory_id": "pim383",
+        "engineering_tools": [
+            {
+                "name": "Pneumatic Simulation",
+                "configuratorLink": "https://www.festo.com/x/pneumatic-simulation",
+                "description": "Supports the selection and configuration of the pneumatic control sequence."
+            },
+            {
+                "name": "Cylinder air consumption calculation",
+                "configuratorLink": "https://www.festo.com/x/air-consumption",
+                "description": "Calculate the air consumption of a pneumatic cylinder for system optimisation."
+            },
+            {
+                "name": "Pneumatic sizing",
+                "configuratorLink": "https://www.festo.com/x/pneumatic-sizing",
+                "description": "Calculate the ideal pneumatic control chain."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Compact pneumatic cylinders, short-stroke and flat cylinders",
+        "subcategory_id": "pim380",
+        "engineering_tools": [
+            {
+                "name": "Pneumatic Simulation",
+                "configuratorLink": "https://www.festo.com/x/pneumatic-simulation",
+                "description": "Supports the selection and configuration of the pneumatic control sequence."
+            },
+            {
+                "name": "Cylinder air consumption calculation",
+                "configuratorLink": "https://www.festo.com/x/air-consumption",
+                "description": "Calculate the air consumption of a pneumatic cylinder for system optimisation."
+            },
+            {
+                "name": "Pneumatic sizing",
+                "configuratorLink": "https://www.festo.com/x/pneumatic-sizing",
+                "description": "Calculate the ideal pneumatic control chain."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Multimount and pin cylinders",
+        "subcategory_id": "pim381",
+        "engineering_tools": [
+            {
+                "name": "Cylinder air consumption calculation",
+                "configuratorLink": "https://www.festo.com/x/air-consumption",
+                "description": "Calculate the air consumption of a pneumatic cylinder for system optimisation."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Pneumatic clamp cylinders",
+        "subcategory_id": "pim382",
+        "engineering_tools": [
+            {
+                "name": "Cylinder air consumption calculation",
+                "configuratorLink": "https://www.festo.com/x/air-consumption",
+                "description": "Calculate the air consumption of a pneumatic cylinder for system optimisation."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Stainless steel pneumatic cylinders",
+        "subcategory_id": "pim379",
+        "engineering_tools": [
+            {
+                "name": "Cylinder air consumption calculation",
+                "configuratorLink": "https://www.festo.com/x/air-consumption",
+                "description": "Calculate the air consumption of a pneumatic cylinder for system optimisation."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Vane drives",
+        "subcategory_id": "pim386",
+        "engineering_tools": [
+            {
+                "name": "Mass moment of inertia calculation",
+                "configuratorLink": "https://www.festo.com/x/mass-moment-of-inertia",
+                "description": "This tool calculates all mass moments of inertia quickly and effortlessly for you."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Rack and pinion actuators",
+        "subcategory_id": "pim387",
+        "engineering_tools": [
+            {
+                "name": "Mass moment of inertia calculation",
+                "configuratorLink": "https://www.festo.com/x/mass-moment-of-inertia",
+                "description": "This tool calculates all mass moments of inertia quickly and effortlessly for you."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Swivel linear actuators",
+        "subcategory_id": "pim388",
+        "engineering_tools": [
+            {
+                "name": "Mass moment of inertia calculation",
+                "configuratorLink": "https://www.festo.com/x/mass-moment-of-inertia",
+                "description": "This tool calculates all mass moments of inertia quickly and effortlessly for you."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Drives with guide rods",
+        "subcategory_id": "pim392",
+        "engineering_tools": [
+            {
+                "name": "Pneumatic sizing",
+                "configuratorLink": "https://www.festo.com/x/pneumatic-sizing",
+                "description": "Calculate the ideal pneumatic control chain."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Stopper cylinders and feed separators",
+        "subcategory_id": "pim220",
+        "engineering_tools": [
+            {
+                "name": "Feed separator calculation",
+                "configuratorLink": "https://www.festo.com/x/feed-separator-selection-tool",
+                "description": "Choose the perfect feed separator."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Rotary indexing tables",
+        "subcategory_id": "pim223",
+        "engineering_tools": [
+            {
+                "name": "Rotary indexing tables calculation",
+                "configuratorLink": "https://www.festo.com/x/rotary-indexing-table-selection",
+                "description": "Select the right rotary indexing table for your application."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Hydraulic dampers",
+        "subcategory_id": "pim225",
+        "engineering_tools": [
+            {
+                "name": "Shock absorber sizing",
+                "configuratorLink": "https://www.festo.com/x/shock-absorber-selection-tool",
+                "description": "Select the right shock absorber for your application."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Linear axes",
+        "subcategory_id": "pim234",
+        "engineering_tools": [
+            {
+                "name": "Electric Motion Sizing",
+                "configuratorLink": "https://www.festo.com/x/electric-motion-sizing",
+                "description": "Find the right electric or electro-mechanical servo drive."
+            },
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Electromechanical cylinders",
+        "subcategory_id": "pim522",
+        "engineering_tools": [
+            {
+                "name": "CO\u2082 values and TCO guide",
+                "configuratorLink": "https://www.festo.com/x/co2-tco",
+                "description": "Compare pneumatic and electric solutions in terms of CO2, costs and performance."
+            },
+            {
+                "name": "Simplified Motion Series - solution finder",
+                "configuratorLink": "https://www.festo.com/x/simplified-motion-series",
+                "description": "Pneumatic simplicity is merged with electric automation."
+            },
+            {
+                "name": "Electric Motion Sizing",
+                "configuratorLink": "https://www.festo.com/x/electric-motion-sizing",
+                "description": "Find the right electric or electro-mechanical servo drive."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Electric rotary actuators",
+        "subcategory_id": "pim235",
+        "engineering_tools": [
+            {
+                "name": "Simplified Motion Series - solution finder",
+                "configuratorLink": "https://www.festo.com/x/simplified-motion-series",
+                "description": "Pneumatic simplicity is merged with electric automation."
+            },
+            {
+                "name": "Electric Motion Sizing",
+                "configuratorLink": "https://www.festo.com/x/electric-motion-sizing",
+                "description": "Find the right electric or electro-mechanical servo drive."
+            },
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Servo motors",
+        "subcategory_id": "pim101",
+        "engineering_tools": [
+            {
+                "name": "Electric Motion Sizing",
+                "configuratorLink": "https://www.festo.com/x/electric-motion-sizing",
+                "description": "Find the right electric or electro-mechanical servo drive."
+            },
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Stepper motors",
+        "subcategory_id": "pim102",
+        "engineering_tools": [
+            {
+                "name": "Electric Motion Sizing",
+                "configuratorLink": "https://www.festo.com/x/electric-motion-sizing",
+                "description": "Find the right electric or electro-mechanical servo drive."
+            },
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Servo drive",
+        "subcategory_id": "pim239",
+        "engineering_tools": [
+            {
+                "name": "Electric Motion Sizing",
+                "configuratorLink": "https://www.festo.com/x/electric-motion-sizing",
+                "description": "Find the right electric or electro-mechanical servo drive."
+            },
+            {
+                "name": "Connectivity Finder",
+                "configuratorLink": "https://www.festo.com/x/connectivity-finder",
+                "description": "Find the optimal way to connect a Festo solution to your PLC controller."
+            },
+            {
+                "name": "Festo Automation Suite",
+                "configuratorLink": "https://www.festo.com/automationsuite",
+                "description": "Automate the entire drive package, from the mechanical system to the controller."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Planetary gearboxes",
+        "subcategory_id": "pim105",
+        "engineering_tools": [
+            {
+                "name": "Electric Motion Sizing",
+                "configuratorLink": "https://www.festo.com/x/electric-motion-sizing",
+                "description": "Find the right electric or electro-mechanical servo drive."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Parallel grippers",
+        "subcategory_id": "pim487",
+        "engineering_tools": [
+            {
+                "name": "Gripper sizing",
+                "configuratorLink": "https://www.festo.com/x/gripper-sizing",
+                "description": "Get customised gripper solutions for precise and efficient handling."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Three finger grippers",
+        "subcategory_id": "pim488",
+        "engineering_tools": [
+            {
+                "name": "Three-point gripper",
+                "configuratorLink": "https://www.festo.com/x/gripper-3-point",
+                "description": "Tells you immediately which three-point gripper is right for you."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Angular grippers",
+        "subcategory_id": "pim489",
+        "engineering_tools": [
+            {
+                "name": "Angle gripper",
+                "configuratorLink": "https://www.festo.com/x/gripper-angle",
+                "description": "Selection guide for the right size of angle grippers."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Radial grippers",
+        "subcategory_id": "pim490",
+        "engineering_tools": [
+            {
+                "name": "Radial gripper",
+                "configuratorLink": "https://www.festo.com/x/gripper-radial",
+                "description": "Determine the radial gripper's correct size for your application."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Single axis robots",
+        "subcategory_id": "pim244",
+        "engineering_tools": [
+            {
+                "name": "Handling Guide Online",
+                "configuratorLink": "https://www.festo.com/x/handling-guide-online",
+                "description": "A customised handling system in just a few clicks."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Two axis robots",
+        "subcategory_id": "pim245",
+        "engineering_tools": [
+            {
+                "name": "Handling Guide Online",
+                "configuratorLink": "https://www.festo.com/x/handling-guide-online",
+                "description": "A customised handling system in just a few clicks."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Gantry robots",
+        "subcategory_id": "pim246",
+        "engineering_tools": [
+            {
+                "name": "Handling Guide Online",
+                "configuratorLink": "https://www.festo.com/x/handling-guide-online",
+                "description": "A customised handling system in just a few clicks."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Three axis robots",
+        "subcategory_id": "pim247",
+        "engineering_tools": [
+            {
+                "name": "Handling Guide Online",
+                "configuratorLink": "https://www.festo.com/x/handling-guide-online",
+                "description": "A customised handling system in just a few clicks."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "3D cantilever systems",
+        "subcategory_id": "pim548",
+        "engineering_tools": [
+            {
+                "name": "Handling Guide Online",
+                "configuratorLink": "https://www.festo.com/x/handling-guide-online",
+                "description": "A customised handling system in just a few clicks."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Vacuum generators",
+        "subcategory_id": "pim112",
+        "engineering_tools": [
+            {
+                "name": "Vacuum design",
+                "configuratorLink": "https://www.festo.com/x/vacuum-sizing",
+                "description": "Calculate customised vacuum solutions for your perfect vacuum system."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Vacuum suction cups",
+        "subcategory_id": "pim113",
+        "engineering_tools": [
+            {
+                "name": "Vacuum design",
+                "configuratorLink": "https://www.festo.com/x/vacuum-sizing",
+                "description": "Calculate customised vacuum solutions for your perfect vacuum system."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Standards-based valve terminals",
+        "subcategory_id": "pim242",
+        "engineering_tools": [
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Universal valve terminals",
+        "subcategory_id": "pim275",
+        "engineering_tools": [
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Classic",
+        "subcategory_id": "pim530",
+        "engineering_tools": [
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Electrical peripherals",
+        "subcategory_id": "pim277",
+        "engineering_tools": [
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "MS series",
+        "subcategory_id": "pim283",
+        "engineering_tools": [
+            {
+                "name": "Service unit components calculation",
+                "configuratorLink": "https://www.festo.com/x/service-unit-sizing",
+                "description": "Find the right service unit component for your application."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "MS series",
+        "subcategory_id": "pim286",
+        "engineering_tools": [
+            {
+                "name": "Service unit components calculation",
+                "configuratorLink": "https://www.festo.com/x/service-unit-sizing",
+                "description": "Find the right service unit component for your application."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Standard pneumatic tubing",
+        "subcategory_id": "pim444",
+        "engineering_tools": [
+            {
+                "name": "Media resistance",
+                "configuratorLink": "https://www.festo.com/x/media-resistance",
+                "description": "Evaluate the chemical resistance of materials and tubing."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Standard I.D. tubing",
+        "subcategory_id": "pim445",
+        "engineering_tools": [
+            {
+                "name": "Media resistance",
+                "configuratorLink": "https://www.festo.com/x/media-resistance",
+                "description": "Evaluate the chemical resistance of materials and tubing."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Spiral tubing",
+        "subcategory_id": "pim446",
+        "engineering_tools": [
+            {
+                "name": "Media resistance",
+                "configuratorLink": "https://www.festo.com/x/media-resistance",
+                "description": "Evaluate the chemical resistance of materials and tubing."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Programmable logic controllers (PLC)",
+        "subcategory_id": "pim156",
+        "engineering_tools": [
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Remote I/O and network interface components",
+        "subcategory_id": "pim157",
+        "engineering_tools": [
+            {
+                "name": "Connectivity Finder",
+                "configuratorLink": "https://www.festo.com/x/connectivity-finder",
+                "description": "Find the optimal way to connect a Festo solution to your PLC controller."
+            },
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Controllers and motion control",
+        "subcategory_id": "pim241",
+        "engineering_tools": [
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    },
+    {
+        "subcategory_name": "Servo press systems",
+        "subcategory_id": "pim202",
+        "engineering_tools": [
+            {
+                "name": "Connectivity Finder",
+                "configuratorLink": "https://www.festo.com/x/connectivity-finder",
+                "description": "Find the optimal way to connect a Festo solution to your PLC controller."
+            },
+            {
+                "name": "System configurator",
+                "configuratorLink": "https://www.festo.com/sc",
+                "description": "Design your machine concept with products and solutions from Festo."
+            }
+        ]
+    }
+]

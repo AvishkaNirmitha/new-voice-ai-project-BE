@@ -1,0 +1,2528 @@
+[
+    {
+        "name": "Actuators",
+        "pimId": "pim5",
+        "description": "Pneumatic, servo-pneumatic and electromechanical linear drives and semi-rotary drives for factory automation",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Pneumatic cylinders",
+                "pimId": "pim135",
+                "description": "Drive components, such as cylinders, linear drives and axes, as well as their attachments and accessories.. Pneumatic drives are intended to convert pressure energy into motion energy; this process involves the transmission and transfer of forces.. Festo was the first manufacturer in Europe to create pneumatic cylinders; our first pneumatic range was created in 1956.",
+                "sub_categories": [
+                    {
+                        "name": "Piston rod cylinder",
+                        "pimId": "pim215",
+                        "description": "Cylinders with piston rods: as compact cylinders, short-stroke cylinders, flat cylinders, round cylinders, miniature cylinders, cartridge cylinders or stainless steel cylinders. Selected types in accordance with the ATEX directive are suitable for explosive atmospheres or are made of corrosion-resistant stainless steel and therefore particularly easy to clean.",
+                        "sub_categories": [
+                            {
+                                "name": "Round cylinders",
+                                "pimId": "pim378",
+                                "description": "Cylinders with round or approximately round cylinder barrel and round or approximately round caps.",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Profile cylinder and tie rod cylinder",
+                                "pimId": "pim383",
+                                "description": "Cylinder with piston rod in tie rod design and profile design",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Compact pneumatic cylinders, short-stroke and flat cylinders",
+                                "pimId": "pim380",
+                                "description": "Cylinders with piston rod, typically with short strokes and optimised installation length.",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Multimount and pin cylinders",
+                                "pimId": "pim381",
+                                "description": "Cartridge cylinders: cylinders designed as cartridges that can be directly screwed into a housing (Schott).. Multimount cylinders: cylinders that can be mounted from one or more sides without additional mounting attachments (except for screws).",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pneumatic clamp cylinders",
+                                "pimId": "pim382",
+                                "description": "Standards-based or non-standard-based cylinders with integrated or attached clamping unit or cartridge.",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Stainless steel pneumatic cylinders",
+                                "pimId": "pim379",
+                                "description": "Cylinder made of corrosion-resistant stainless steel, and therefore especially easy to clean.",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rodless cylinders",
+                        "pimId": "pim216",
+                        "description": "Space-saving linear drives with or without guide: mechanically coupled cylinders with optimised mounting options for simple mounting and magnetically coupled cylinders for use as a pressure-tight and zero-leakage system.",
+                        "sub_categories": [
+                            {
+                                "name": "Mechanically coupled pneumatic cylinders",
+                                "pimId": "pim384",
+                                "description": "Diameter 8, 12, 18, 25, 32, 40, 50, 80\u00a0mm. Stroke length 1 ... 8500\u00a0mm. Force 30 ... 3016\u00a0N. Guide variants. - Standard design. - Plain-bearing guide. - Recirculating ball bearing guide. - Heavy-duty guide",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Magnetically coupled pneumatic cylinders",
+                                "pimId": "pim385",
+                                "description": "Diameter 12, 16, 20, 25, 32, 40\u00a0mm. Stroke length 10 ... 4000\u00a0mm. Force 68 ... 754\u00a0N. Guide variant. - Recirculating ball bearing guide",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rotary actuators",
+                        "pimId": "pim217",
+                        "description": "Compact semi-rotary drives with minimum space requirements and adjustable swivel angle, also available as a twin piston rotary drive. Specified types are suitable for potentially explosive atmospheres in accordance with the ATEX directive.",
+                        "sub_categories": [
+                            {
+                                "name": "Vane drives",
+                                "pimId": "pim386",
+                                "description": "Sizes 6, 8, 10, 12, 16, 25, 32, 40, 63 mm. Torque: 0.15 ... 80&nbsp;Nm. Swivel angle 0 ... 270\u00b0. Semi-rotary drive with vane as movable component",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Rack and pinion actuators",
+                                "pimId": "pim387",
+                                "description": "Size 8, 10, 12, 16, 20, 25, 32, 35, 40, 50, 63 mm. Torque 0.2 ... 112 Nm. Swivel angle 0 ... 180\u00b0. Semi-rotary drive up to 180 degrees with rack and pinion",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Swivel linear actuators",
+                                "pimId": "pim388",
+                                "description": "Diameter 16, 20, 25, 32, 40\u00a0mm. Stroke length 10 ... 200 mm. Swivel angle 0 ... 272\u00b0. Torque 1.25 ... 20 Nm. Drives with separately controllable function directions.",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tandem, high-force and multi-position cylinders",
+                        "pimId": "pim218",
+                        "description": "More thrust than conventional cylinders by connecting in series 2, 3 or 4 cylinders with the same piston diameter and the same stroke. . By connecting 2 to 5 cylinders in series with the same piston diameter and different stroke lengths, up to 6 positions can be approached. .",
+                        "sub_categories": [
+                            {
+                                "name": "Tandem and high-force cylinders",
+                                "pimId": "pim389",
+                                "description": "Diameter 25, 32, 40, 50, 63, 80, 100, 125\u00a0mm. Stroke length 1 ... 500\u00a0mm. Force 542 ... 18281\u00a0N. More thrust than conventional cylinders by connecting in series 2, 3 or 4 cylinders with the same piston diameter and the same stroke.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Multi-position cylinders",
+                                "pimId": "pim390",
+                                "description": "Diameter 25, 40, 63, 100 mm. Stroke length 1 ... 2000\u00a0mm. Force 295 ... 4712\u00a0N. By connecting 2 to 5 cylinders in series with the same piston diameter and different stroke lengths, up to 6 positions can be approached.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Guided cylinders",
+                        "pimId": "pim219",
+                        "description": "Drives with slide, rod guides or precise piston rod guide.",
+                        "sub_categories": [
+                            {
+                                "name": "Drives with slides",
+                                "pimId": "pim391",
+                                "description": "Diameter 6, 8, 10, 12, 16, 20, 25&nbsp;mm. Stroke length 5 \u2026 200 mm. Force 17 \u2026 724 N. Recirculating ball bearing guide. Ball bearing cage guide.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Drives with guide rods",
+                                "pimId": "pim392",
+                                "description": "Diameter 10, 16, 25, 32, 50, 80, 100\u00a0mm. Stroke length 1 ... 500\u00a0mm. Force 31 ... 4712\u00a0N. Recirculating ball bearing guide. Plain-bearing guide.",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stopper cylinders and feed separators",
+                        "pimId": "pim220",
+                        "description": "Piston rod cylinder with reinforced piston rod and bearing to withstand large lateral forces.. For stopping or separating when transporting workpiece carriers or pallets \u2013 smooth, quiet and safe stopping.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Clamping cylinders",
+                        "pimId": "pim221",
+                        "description": "Compact cylinders without piston rod with diaphragm and a much shorter stroke than bellows cylinders.. Clamping system with pneumatic drive.",
+                        "sub_categories": [
+                            {
+                                "name": "Diaphragm clamping cylinders",
+                                "pimId": "pim393",
+                                "description": "Compact cylinders without piston rod with diaphragm and a much shorter stroke than bellows cylinders.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Swing clamp cylinders",
+                                "pimId": "pim394",
+                                "description": "Clamping system with pneumatic drive.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Hinge cylinders",
+                                "pimId": "pim395",
+                                "description": "Hinge cylinder for clamping components during the welding process",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diaphragm actuators",
+                        "pimId": "pim222",
+                        "description": "Diaphragm drives without piston rod; the design consists of two metal plates with a ribbed rubber bellows or hose.",
+                        "sub_categories": [
+                            {
+                                "name": "Bellows cylinders",
+                                "pimId": "pim396",
+                                "description": "Size 80, 100, 145, 165, 215, 250, 325, 385\u00a0mm. Stroke length 60 ... 230\u00a0mm. Force 0 ... 70000\u00a0N. Bellows cylinders drive and pneumatic spring components for harsh, dusty environments or for use under water. Rolling bellows with large stroke range relative to installation height.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pneumatic muscle",
+                                "pimId": "pim397",
+                                "description": "Sizes 5, 10, 20, 40&nbsp;mm. Nominal length 30 ... 9000 mm. Lifting force 140 ... 6000 N. Pressed-in connection. Pneumatic actuator without piston rod, with contraction diaphragm, dynamic, powerful, stick-slip-free, single-acting, pulling.. As a tensile actuator modelled on a biological muscle, with almost linear force-stroke characteristics",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rotary indexing tables",
+                        "pimId": "pim223",
+                        "description": "Units for rotary indexing work on assembly and packing machines, drilling stations and applications with rotating or moving workpieces.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Hydraulic dampers",
+                        "pimId": "pim225",
+                        "description": "Stroke 1.7 ... 60 mm. Max. energy absorption per stroke 0.005 ... 384 J. Adjustable, self-adjusting cushioning, elastic cushioning rings. Components for cushioning kinetic energy.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Classic",
+                        "pimId": "pim528",
+                        "description": "Product types for which modern alternatives are now available.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Cylinder mounting parts and accessories",
+                        "pimId": "pim226",
+                        "description": "Mounting components, attachments, piston rod attachments and guides for drives.",
+                        "sub_categories": [
+                            {
+                                "name": "Mounting attachments for drives",
+                                "pimId": "pim398",
+                                "description": "Brackets, plates, flanges, swivel mountings, etc.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Mounting components for sensors",
+                                "pimId": "pim399",
+                                "description": "Stop, retainer, mounting plate, etc.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Piston-rod attachments",
+                                "pimId": "pim400",
+                                "description": "Rod clevis, rod eye, adapter, threaded rod, load inverter, moment compensator, self-aligning rod coupler, push-on flange, coupling piece.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Linear guides",
+                                "pimId": "pim402",
+                                "description": "Linear guides without drives, with precise guidance and the option of attaching/installing a drive.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Accessories for direct valve mounting",
+                                "pimId": "pim401",
+                                "description": "Sub-bases, mounting kits and flow control module for direct valve mounting on cylinders.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Clamping components",
+                                "pimId": "pim403",
+                                "description": "Clamping components, special indexing, stops for drives.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Freewheel units",
+                                "pimId": "pim404",
+                                "description": "View of the drive shaft side, anti-clockwise rotation. View of the drive shaft side, clockwise rotation. Drive element that converts the swivel motion of a swivel cylinder into a rotary movement.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Accessories for cushioning components",
+                                "pimId": "pim405",
+                                "description": "Shock absorber mounting, buffer, oil gun.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Drive-specific accessories",
+                                "pimId": "pim406",
+                                "description": "Intermediate position modules, indexing conversion kits, diagnostic modules, measured-value transducers.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Servo-pneumatics",
+                "pimId": "pim185",
+                "description": "Systems for positioning, with drives, axis controllers and their accessories.. Servo-pneumatics is most useful in situations that require compact solutions, where moving loads are more than 10 kg and positioning accuracy must be within the range of tenths of a millimetre.",
+                "sub_categories": [
+                    {
+                        "name": "Cylinders with displacement encoders",
+                        "pimId": "pim228",
+                        "description": "Drives with or without piston rod, with attached or integral linear displacement encoder, or angular displacement encoder.",
+                        "sub_categories": [
+                            {
+                                "name": "Linear cylinders with displacement encoders",
+                                "pimId": "pim407",
+                                "description": "Diameter 18, 25, 32, 40, 50, 63, 80, 100\u00a0mm. Stroke length 10 ... 2000\u00a0mm. Force 153 ... 4712\u00a0N",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Semi-rotary drives with displacement encoders",
+                                "pimId": "pim408",
+                                "description": "Size: 25, 40, 63. Swivel angle 0 ... 272 \u00b0. Mass moment of inertia 0.0015 kgm\u00b2 ... 0.60 kgm\u00b2.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Servo-pneumatic controllers",
+                        "pimId": "pim230",
+                        "description": "Axis controllers. End-position controllers.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Linear potentiometers",
+                        "pimId": "pim231",
+                        "description": "Stroke length 100 ... 2000 mm. Analogue or digital measuring principle. 0.01 mm resolution.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Proportional valves",
+                        "pimId": "pim232",
+                        "description": "Connection G1/8, G1/4, G3/8. Flow rate 100 ... 2000 l/min. 5/3-way proportional directional control valve, closed. For servo-pneumatic applications.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Sensor interfaces",
+                        "pimId": "pim233",
+                        "description": "Measured-value transducers. Sensor and axis interfaces.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Cables and accessories",
+                        "pimId": "pim313",
+                        "description": "Accessories CMAX, CMPX",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Electromechanical actuators",
+                "pimId": "pim205",
+                "description": "With electric drives or electromechanical drive technology, a distinction is made between linear and rotary drives. An electric motor (servo or stepper motor) drives a toothed belt or a spindle, which in turn moves a slide in a linear direction. In the case of rotary drives and modules, the electric motor drives the internal rotary mechanics. The servo or stepper motor is controlled by suitable servo drives.. Linear mechanisms are usually divided into toothed belt and spindle axes, electric cylinders and mini slides.. The guide also plays an important role in distinguishing the type of drive. We usually distinguish between a plain-bearing guide, recirculating ball bearing guide and roller guide.. Typical areas of application for electric drive technology can be found throughout automation technology, especially in flexible linear or rotary positioning.. Electromechanical systems are characterised above all by robustness and rigidity as well as precision and dynamic response.. For example, linear mechanical systems achieve speeds of up to 10 m/s, accelerations of up to 50 m/s\u00b2 and a repetition accuracy of +/\u2013 15 \u00b5m. Strokes of up to 8.5&nbsp;m are available as standard.. The design of electric drives makes them rigid and virtually unyielding.",
+                "sub_categories": [
+                    {
+                        "name": "Linear axes",
+                        "pimId": "pim234",
+                        "description": "Size 32 \u2026 220. Stroke length 50 \u2026 8500 mm. Force 40 \u2026 6400 N",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Electromechanical cylinders",
+                        "pimId": "pim522",
+                        "description": "Size 15 ... 100. Stroke length 25 ... 1500 mm. Force 19 ... 17000 N",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Integrated electromechanical actuators",
+                        "pimId": "pim705",
+                        "description": "Rotary drive unit. Electric cylinder unit. Mini slide unit. Ball screw axis unit. Toothed belt axis unit",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Electric rotary actuators",
+                        "pimId": "pim235",
+                        "description": "Size: 20, 25, 32. Max. driving torque 0.7 ... 8.5 Nm. Infinite rotation angle.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Electric stoppers",
+                        "pimId": "pim236",
+                        "description": "For stopping or separating when transporting workpiece carriers or pallets \u2013 smooth, quiet and safe stopping.. Fast and easy set-up of transfer systems without compressed air.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Electric handling modules",
+                        "pimId": "pim237",
+                        "description": "Rotary/lifting modules.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories for electric drives",
+                        "pimId": "pim238",
+                        "description": "Couplings, connecting shafts, coupling housings, motor flanges.",
+                        "sub_categories": [
+                            {
+                                "name": "Mounting parts for motor mounting",
+                                "pimId": "pim409",
+                                "description": "Connecting shafts for electromechanical drives. Couplings and housings. Flanges. Axial and parallel kits",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Mounting parts for position sensing",
+                                "pimId": "pim410",
+                                "description": "Switch lugs. Sensor mounting kits. Sensing modules",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Mounting parts for protective devices",
+                                "pimId": "pim411",
+                                "description": "Adapters and covers for electromechanical drives",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Mounting attachments",
+                                "pimId": "pim412",
+                                "description": "Mounting kits. Foot mountings. Central supports. Centring rings. Mounting kits",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Linear guides",
+                                "pimId": "pim413",
+                                "description": "Guide axes with roller bearing guide. Guide axes with recirculating ball bearing guide",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Accessories for cushioning",
+                                "pimId": "pim414",
+                                "description": "Shock absorber mounting.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Drive-specific accessories",
+                                "pimId": "pim486",
+                                "description": "Electric and mechanical accessories and installation components",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pneumatic actuators for process valves",
+                "pimId": "pim710",
+                "description": "Pneumatic linear and quarter turn actuators for the automation of linear valves, butterfly valves and ball valves.",
+                "sub_categories": [
+                    {
+                        "name": "Linear actuators for process valves",
+                        "pimId": "pim211",
+                        "description": "Pneumatic linear actuators for opening/closing and control applications with integrated positioner. Suitable for linear process valves such as knife gate valves, penstock valves and pinch valves.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Rotary actuators for process valves",
+                        "pimId": "pim210",
+                        "description": "Pneumatic rotary actuators according to the rack and pinion or Scotch yoke principle, in aluminium or stainless steel, for automating butterfly valves and ball valves.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories",
+                        "pimId": "pim711",
+                        "description": "Accessories for use with linear and quarter turn actuators for process valves. Positioners, pilot valves, limit switch attachments and pneumatic extension modules.",
+                        "sub_categories": [
+                            {
+                                "name": "Limit switch attachments",
+                                "pimId": "pim712",
+                                "description": "Digital and analogue limit switch boxes with optical display for semi-rotary drives in standard and potentially explosive atmospheres.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Valve positioners",
+                                "pimId": "pim713",
+                                "description": "Electropneumatic positioner for control functions in combination with semi-rotary drives.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "NAMUR valves",
+                                "pimId": "pim10",
+                                "description": "Solenoid valves for controlling pneumatic actuators with Namur interfaces (VDI/VDE 3845) as well as application-specific valves for typical safety applications in process automation.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pneumatic extension modules",
+                                "pimId": "pim715",
+                                "description": "Complete solution for control applications. Modules such as fail-safe, volume booster and filter regulator can be combined with each other as required.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Motors and servo drives",
+        "pimId": "pim13",
+        "description": "Servo and stepper motors. Motor and multi-axis controllers",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Servo motors",
+                "pimId": "pim101",
+                "description": "Flange size motors 40, 55, 60, 70, 80, 100, 150, 190. Stall torque 0.16 ... 38.8&nbsp;Nm. Voltage 300, 360 ... 565&nbsp;V&nbsp;DC",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Stepper motors",
+                "pimId": "pim102",
+                "description": "Flange size of motors 28, 42, 57, 87. Holding torque 0.09 ... 8.6 Nm. Voltage 48 V DC",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Servo drive",
+                "pimId": "pim239",
+                "description": "Voltage 230 / 400 V AC, 24 / 48 V DC. Nominal current 1.25 ... 12A. Fieldbus PN, EC, EP, Modbus TCP",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Planetary gearboxes",
+                "pimId": "pim105",
+                "description": "Gear unit for electromechanical drives.",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for servo drives",
+                "pimId": "pim106",
+                "description": "Braking resistor. Power supply units, mains filters. Terminating resistor.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Grippers",
+        "pimId": "pim227",
+        "description": "Whether for sturdy gripping in a machine tool or micro-gripping in electronics manufacturing, the range of grippers from Festo covers all kinds of applications.",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Parallel grippers",
+                "pimId": "pim487",
+                "description": "Size 6, 8, 10, 12, 14, 16, 20, 25, 32, 35, 40, 50, 63 mm. Stroke length 0 ... 80\u00a0mm. Force 8 ... 770\u00a0N per gripper jaw. Grippers with gripper fingers that move a linear direction, independent of the number of gripper fingers (two- and three-point grippers).",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": true
+            },
+            {
+                "name": "Three finger grippers",
+                "pimId": "pim488",
+                "description": "Size 16, 25, 32, 35, 40, 50, 63 mm. Stroke length 2.5 ... 10\u00a0mm per gripper jaw. Force 30 ... 864\u00a0N per gripper jaw. Grippers with gripper fingers that move a linear direction, independent of the number of gripper fingers (two- and three-point grippers).",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Angular grippers",
+                "pimId": "pim489",
+                "description": "Size 8, 10, 12, 16, 20, 25, 32, 40\u00a0mm. Opening angle 14 ... 18.5\u00b0, 30\u00b0, 40\u00b0, 180\u00b0. Gripping torque 11 ... 965\u00a0Ncm. Grippers whose gripper fingers execute a swivelling movement, independent of the angle.",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Radial grippers",
+                "pimId": "pim490",
+                "description": "Size 10, 12, 16, 20, 25, 32, 40 mm. Opening angle 180\u00b0. Gripping torque 13 ... 600 Ncm.",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Swivel/gripper units",
+                "pimId": "pim491",
+                "description": "Size: 12, 16, 20. Stroke length 2.5 ... 7 mm per gripper jaw. Force 26 ... 65 N per gripper jaw. Swivel angle 220\u00b0. Combination of semi-rotary drive and gripper.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Bellows grippers",
+                "pimId": "pim492",
+                "description": "Pneumatic grippers for sensitive and secure internal gripping.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for grippers",
+                "pimId": "pim417",
+                "description": "Adapter kits and installation components for handling units which allow handling systems to be constructed.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Industrial robots",
+        "pimId": "pim17",
+        "description": "Pick &amp; place, linear gantries and three-dimensional gantries: the fast route to a multi-axis system with standard handling components from the modular system",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Pneumatic pick and place",
+                "pimId": "pim107",
+                "description": "With pneumatic drive. With drive shaft, without drive. Payload: 0 ... 1600 g. Force 30 ... 65 N. Cycle time 0.6 ... 1 second",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Cartesian robots",
+                "pimId": "pim108",
+                "description": "Different variants of linear drives and slide drives . Single and multi-axis systems. Linear gantries, planar surface gantries and three-dimensional gantries. Electric and pneumatic actuation",
+                "sub_categories": [
+                    {
+                        "name": "Single axis robots",
+                        "pimId": "pim244",
+                        "description": "Ready-to-install single-axis solutions including energy chain for routing cables and tubing, as well as matching motor and motor controller package.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Two axis robots",
+                        "pimId": "pim245",
+                        "description": "2D movements in a vertical working space: a linear gantry encompasses a horizontal gantry axis and any vertical axis to form a complete and ready-to-install system including a matching motor and motor controller package. It is possible to combine pneumatic and electric axes.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Gantry robots",
+                        "pimId": "pim246",
+                        "description": "2D movements in a horizontal working space: a planar surface gantry combines 3 gantry axes to form a complete and ready-to-install system including a matching motor and motor controller package.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Three axis robots",
+                        "pimId": "pim247",
+                        "description": "3D movements in a working space: a 3-dimensional gantry encompasses three horizontal gantry axes and a vertical axis to form a complete and ready-to-install system including a matching motor and motor controller package. It is possible to combine pneumatic and electric axes.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "3D cantilever systems",
+                        "pimId": "pim548",
+                        "description": "Movements in a 3D working space:. - A cantilever system combines 2 horizontal gantry axes and a vertical axis to form a complete and ready-to-install system including a matching motor and motor controller package.. - The cantilevered Y-axis makes the working area accessible from 3 sides.. - Combinations of pneumatic and electric axes can be used here.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Delta robots",
+                "pimId": "pim109",
+                "description": "High-speed handling system with robotic functionality for free movement in three dimensions",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Dosing and pipetting heads",
+                "pimId": "pim580",
+                "description": "Solutions for dispensing and pipetting liquids. Decentralised solutions for pressure and vacuum generation for liquid handling",
+                "sub_categories": [
+                    {
+                        "name": "Dosing heads",
+                        "pimId": "pim555",
+                        "description": "Solutions for dispensing and aspirating liquids",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories",
+                        "pimId": "pim581",
+                        "description": "Valve control module for dosing heads and valves. Dosing needles and fittings. Decentralised solutions for pressure and vacuum generation",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Robotic control systems",
+                "pimId": "pim110",
+                "description": "Tested and ready-to-install control systems from a single source, in a control cabinet or on a mounting plate.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for handling modules",
+                "pimId": "pim111",
+                "description": "Adapter kits and installation components for handling units which allow handling systems to be constructed.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Vacuum technologies",
+        "pimId": "pim20",
+        "description": "Complete vacuum range consisting of simple vacuum generators, valves suitable for vacuum, vacuum switches and vacuum grippers and their accessories.",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Vacuum generators",
+                "pimId": "pim112",
+                "description": "Vacuum generators according to the Venturi principle in various performance categories.",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Vacuum suction cups",
+                "pimId": "pim113",
+                "description": "Wide variety of suction grippers and suction cups:. different designs, materials and sizes of suction cups and a modular suction gripper system with a large range of different suction cup holders, angle and height compensators and filters.",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Classic",
+                "pimId": "pim526",
+                "description": "Product types for which modern alternatives are now available.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for vacuum",
+                "pimId": "pim114",
+                "description": "Assembly and connection components. Compensating components. Vacuum displays. Vacuum filter. Vacuum security valves.",
+                "sub_categories": [
+                    {
+                        "name": "Assembly and connection components",
+                        "pimId": "pim248",
+                        "description": "Suction cup holders, mounting attachments, angled outlets.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Compensating components",
+                        "pimId": "pim249",
+                        "description": "Height and angle compensator.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Vacuum displays",
+                        "pimId": "pim250",
+                        "description": "Vacuum gauge with display unit in bar, adjustable red/green range.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Vacuum filter",
+                        "pimId": "pim251",
+                        "description": "Filter for vacuum technology.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Vacuum security valves",
+                        "pimId": "pim252",
+                        "description": "Save air and energy.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Vacuum-specific accessories",
+                        "pimId": "pim253",
+                        "description": "Suction-cup inserts.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Valves and valve terminals",
+        "pimId": "pim23",
+        "description": "Standard valves and universal valves, application-optimised. Manually and mechanically actuated valves; shut-off, flow control, pressure limiting and proportional valves.",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Electrically and pneumatically actuated directional control valves",
+                "pimId": "pim115",
+                "description": "Standards-based directional control valves. Universal directional control valves. Application-specific directional control valves. Electric or pneumatic actuation.",
+                "sub_categories": [
+                    {
+                        "name": "Standards-based directional control valves",
+                        "pimId": "pim229",
+                        "description": "Flow rate 400 ... 6000 l/min. Voltage 12, 24, 42, 48 V DC, 12, 24, 48, 110, 230 V AC. Connection G1/8, G1/4, ISO1; G3/8, ISO2; G1/2, ISO3; G3/4, ISO4. Sub-base valve.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Universal directional control valves",
+                        "pimId": "pim254",
+                        "description": "Flow rate 4 ... 7500 l/min. Voltage 12 ... 230 V DC, 12 ... 240 V AC. Connection M3, M5, M7, G1/8, G1/4, G3/8, G1/2, G3/4. Plug connection 6, 8 mm. Sub-base valve/in-line valve/semi in-line valve.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Application-specific directional control valves",
+                        "pimId": "pim255",
+                        "description": "Flow rate 10 ... 1800 l/min. Voltage 5, 12, 24\u00a0V\u00a0DC. Connection M3, M5, M7, G1/8, G3/8. Push-in connector 3, 4, 6\u00a0mm. Barbed fitting PK3. Sub-base valve/in-line valve/semi in-line valve.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Mechanically & hand operated pneumatic valves",
+                "pimId": "pim116",
+                "description": "Directional control valves with mechanical actuating components such as plungers, rollers, roller levers, swivel levers, whiskers etc.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Stop valves",
+                "pimId": "pim117",
+                "description": "Shut-off valves. - Check valves. - Ball valves and shut-off valves. - Quick exhaust valves. - Logic valves",
+                "sub_categories": [
+                    {
+                        "name": "Check valves",
+                        "pimId": "pim256",
+                        "description": "Connection M5, G1/8, G1/4, G3/8, G1/2, G3/4. Push-in connector 2, 4, 6, 8, 10, 12&nbsp;mm. Flow rate 115 ... 2330 l/min. Shut-off valves.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Quick exhaust valves",
+                        "pimId": "pim694",
+                        "description": "Connection G1/8, G1/4, G3/8, G1/2, G3/4. Push-in connector 6, 8 mm. Flow rate 300 ... 6480 l/min. Shut-off valves.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Ball valves and on off valves",
+                        "pimId": "pim257",
+                        "description": "Connection M5, G1/8, G1/4...G1 1/2. Push-in connector 6, 8, 10, 12 mm. Flow rate 115 ... 84000 l/min. Shut-off valves. On/off valves.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic logic valves",
+                        "pimId": "pim258",
+                        "description": "Components with AND/OR logic functions. NOT/amplifier modules.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Pressure control fittings",
+                "pimId": "pim118",
+                "description": "Pressure regulators with screw-in thread. - Pressure regulators. - Differential pressure regulators",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Flow control valves",
+                "pimId": "pim119",
+                "description": "Flow control valves. - Time delay valves. - Throttle valves. - One-way flow control valves",
+                "sub_categories": [
+                    {
+                        "name": "One-way check valves",
+                        "pimId": "pim259",
+                        "description": "Flow rate 0 ... 4320 l/min. Connection M3, M5, G1/8, G1/4, G3/8, G1/2, G3/4. Push-in connector 3, 4, 6, 8, 10, 12&nbsp;mm. Shut-off valves. Shut-off and flow control valves.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Throttle valves",
+                        "pimId": "pim260",
+                        "description": "Flow rate 0 ... 8000 l/min. Connection M3, M5, G1/8, G1/4, G3/8, G1/2, G3/4. Push-in connector 3, 4, 6\u00a0mm. Flow control valves.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic timers",
+                        "pimId": "pim261",
+                        "description": "Flow rate 65 ... 600 l/min. Connection G1/4. Barbed fitting for 3 mm I.D. tubing.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Proportional pneumatic valves",
+                "pimId": "pim120",
+                "description": "Proportional valves. - Proportional pressure regulators. - Proportional directional control valves",
+                "sub_categories": [
+                    {
+                        "name": "Proportional flow control valves",
+                        "pimId": "pim369",
+                        "description": "Controls the flow rate for connected pneumatic loads",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Proportional pressure control valves",
+                        "pimId": "pim370",
+                        "description": "Control the pressure for connected pneumatic loads",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Process and media valves",
+                "pimId": "pim21",
+                "description": "Ball valves, angle seat valves, butterfly valves and other media valves for controlling fluids",
+                "sub_categories": [
+                    {
+                        "name": "Ball valves",
+                        "pimId": "pim136",
+                        "description": "Brass and stainless steel ball valves as single components or ready assembled with a pneumatic actuator.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Angle seat valves",
+                        "pimId": "pim186",
+                        "description": "Angle seat valves made of gunmetal (red brass) and stainless steel, fully assembled and actuated by a direct supply of compressed air.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pinch valves",
+                        "pimId": "pim204",
+                        "description": "Connection 1/4\", 1/2\", clamp. G thread or NPT thread. Pressure range 0 ... 6\u00a0bar. Pneumatic operation. 2/2-way pinch valve. Housing made of aluminium, stainless steel (clean design). Material of seal EPDM, NBR, silicone. For controlling fluid/powdery media, solids and mixed materials.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Solenoid media valves",
+                        "pimId": "pim206",
+                        "description": "Directly operated, pilot operated and force pilot operated media valves in brass and stainless steel for controlling various liquid and gaseous media.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Process valve units",
+                        "pimId": "pim513",
+                        "description": "Brass and stainless steel process valve units ready assembled for versatile use in various industry sectors.",
+                        "sub_categories": [
+                            {
+                                "name": "Ball valve assembly",
+                                "pimId": "pim516",
+                                "description": "Brass and stainless steel ball valve units, fully assembled, with manual and automatic actuation.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Actuated ball valves",
+                                "pimId": "pim514",
+                                "description": "Brass and stainless steel ball valve actuator units ready assembled with a pneumatic actuator.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Butterfly valve assembly",
+                                "pimId": "pim515",
+                                "description": "Butterfly valve units for versatile use in various industry sectors.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pneumatically actuated media valves",
+                        "pimId": "pim524",
+                        "description": "Brass pneumatic valves for controlling different liquid and gaseous media.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Dosing and pipetting heads",
+                        "pimId": "pim700",
+                        "description": "Solutions for dispensing and pipetting liquids. Decentralised solutions for pressure and vacuum generation for liquid handling",
+                        "sub_categories": [
+                            {
+                                "name": "Dosing heads",
+                                "pimId": "pim701",
+                                "description": "Solutions for dispensing and aspirating liquids",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Accessories",
+                                "pimId": "pim703",
+                                "description": "Valve control module for dosing heads and valves. Dosing needles and fittings. Decentralised solutions for pressure and vacuum generation",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Piezo valves",
+                "pimId": "pim123",
+                "description": "Using Piezo valves for pilot control ensures:. - Pressure regulation functionality. - Maximum service life. - Minimal energy consumption. - Low leakage when used as a proportional pressure regulator",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Pneumatic controls",
+                "pimId": "pim124",
+                "description": "Adding counters. Predetermining counters",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Classic",
+                "pimId": "pim529",
+                "description": "Product types for which modern alternatives are now available.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for valves",
+                "pimId": "pim125",
+                "description": "Sub-bases/manifold rails. Solenoid coils. Mounting attachments. Actuator attachments. Valve-specific accessories",
+                "sub_categories": [
+                    {
+                        "name": "Adapter plates",
+                        "pimId": "pim262",
+                        "description": "Pneumatic interface. Adaptation of ISO size 3 on valve terminal VTSA/VTSA-F. Pneumatic interface for terminal CPX/VTSA",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Cover plates",
+                        "pimId": "pim263",
+                        "description": "For covering unused valve positions on valve terminals, manifold assemblies and manifold rails.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Sealing elements and separators",
+                        "pimId": "pim264",
+                        "description": "For capping unused connections and isolating different pressure areas in manifold assemblies and manifold rails.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "End plates",
+                        "pimId": "pim265",
+                        "description": "For supplying compressed air and mounting manifold sub-bases",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Function components",
+                        "pimId": "pim266",
+                        "description": "Vertical stacking modules for additional functions such as supply, flow and pressure regulation",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Manifold rails",
+                        "pimId": "pim267",
+                        "description": "For a common compressed air supply to several valves in the same series",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Sub-bases",
+                        "pimId": "pim268",
+                        "description": "For assembling and enhancing the function (vertical stacking) of individual valves",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Manifold sub-bases",
+                        "pimId": "pim269",
+                        "description": "For assembling and linking individual valves",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Solenoid coils",
+                        "pimId": "pim270",
+                        "description": "Solenoid coils for valves and valve terminals.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Mounting components and inscription labels",
+                        "pimId": "pim271",
+                        "description": "Cables, plug sockets, mounting components, inscription labels, etc.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Actuator attachments",
+                        "pimId": "pim272",
+                        "description": "Components for actuating valves.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Multi-pin plug distributors",
+                        "pimId": "pim273",
+                        "description": "Electric multiple distributor with outputs and inputs.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Valve-specific accessories",
+                        "pimId": "pim274",
+                        "description": "Setpoint module MPZ for proportional pressure regulators",
+                        "sub_categories": [
+                            {
+                                "name": "Electrical connection components",
+                                "pimId": "pim419",
+                                "description": "Electrical sub-bases. Setpoint module",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Wearing parts",
+                                "pimId": "pim418",
+                                "description": "Dichtungskartuschen",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Dosing elements",
+                                "pimId": "pim525",
+                                "description": "Dosing nozzles",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Stop elements",
+                                "pimId": "pim523",
+                                "description": "Stroke reductions",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Valve manifolds",
+                "pimId": "pim172",
+                "description": "Valve modules with electrical multi-pin, individual or fieldbus interface or integrated control, with or without electrical inputs and outputs",
+                "sub_categories": [
+                    {
+                        "name": "Standards-based valve terminals",
+                        "pimId": "pim242",
+                        "description": "Valve modules to ISO 15407-1, 15407-2 and ISO 5599-2 for standards-based valves with versatile valve functions and as a plug-in or individual connection.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Universal valve terminals",
+                        "pimId": "pim275",
+                        "description": "Sturdy and modular valve modules as a compact or modular sub-base for all standard tasks.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Application-specific valve terminals",
+                        "pimId": "pim276",
+                        "description": "Space-saving and compact valve modules for special requirements",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Classic",
+                        "pimId": "pim530",
+                        "description": "Product types for which modern alternatives are now available.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Electrical peripherals",
+                        "pimId": "pim277",
+                        "description": "Electric components for valve terminals. AS-Interface components",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories for valve terminals",
+                        "pimId": "pim278",
+                        "description": "Valves. Sub-bases/manifold rails. Mounting attachments. Actuator attachments. Valve-module-specific accessories",
+                        "sub_categories": [
+                            {
+                                "name": "Valves",
+                                "pimId": "pim420",
+                                "description": "Valves for:. - Valve modules in accordance with standards. - Universal valve modules. - Application-specific valve modules",
+                                "sub_categories": [
+                                    {
+                                        "name": "Valve modules to standard",
+                                        "pimId": "pim493",
+                                        "description": "Valves for valve modules to standard",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    },
+                                    {
+                                        "name": "Universal valve modules",
+                                        "pimId": "pim494",
+                                        "description": "Valves for universal valve modules",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    },
+                                    {
+                                        "name": "Application-specific valve modules",
+                                        "pimId": "pim495",
+                                        "description": "Valves for application-specific valve modules",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sub-bases, manifold rails",
+                                "pimId": "pim421",
+                                "description": "Vertical stacking modules for additional functions such as supply, flow and pressure regulation",
+                                "sub_categories": [
+                                    {
+                                        "name": "Universal valve modules",
+                                        "pimId": "pim497",
+                                        "description": "Sub-bases/manifold rails for universal valve modules",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    },
+                                    {
+                                        "name": "Application-specific valve modules",
+                                        "pimId": "pim498",
+                                        "description": "Sub-bases/manifold strips for application-specific valve terminals.",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Function components",
+                                "pimId": "pim422",
+                                "description": "Vertical stacking modules for additional functions such as supply, flow and pressure regulation",
+                                "sub_categories": [
+                                    {
+                                        "name": "Universal valve modules",
+                                        "pimId": "pim500",
+                                        "description": "Function components for universal valve terminals.",
+                                        "sub_categories": [],
+                                        "engineering_tools": false,
+                                        "integrated_engineering_tools": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mounting components and inscription labels",
+                                "pimId": "pim423",
+                                "description": "Mounting components, inscription labels, ...",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Components for electrical linking",
+                                "pimId": "pim424",
+                                "description": "Electrical bridges and contact plates for electrical interlinking in valve modules and multi-pin nodes",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Sealing elements and separators",
+                                "pimId": "pim425",
+                                "description": "For capping unused connections and isolating different pressure areas in valve terminals and manifold assemblies.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pressure indicators",
+                                "pimId": "pim426",
+                                "description": "Pressure indicators for valve modules",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Relay plates",
+                                "pimId": "pim428",
+                                "description": "Relay plates with two floating. contacts for valve modules",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Motion Terminal",
+        "pimId": "pim502",
+        "description": "Flow rate 550\u00a0l/min. Voltage 24\u00a0V\u00a0DC. Pressure -0.9 ... 8\u00a0bar. Degree of protection IP65. Semi in-line valves. Metal manifold rail. Fieldbus interface via modular electrical terminal type CPX",
+        "long_description": "",
+        "sub_categories": []
+    },
+    {
+        "name": "Sensors",
+        "pimId": "pim26",
+        "description": "Sensors and monitoring devices and their accessories.",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Cylinder sensors",
+                "pimId": "pim128",
+                "description": "Festo proximity sensors are especially designed and optimised for Festo drives. They detect the magnetic field of permanent magnets built into the piston of the cylinder, thus indirectly indicating the position of the piston rod. . The available range covers freely configurable proximity sensors, modular systems, and solutions for special applications such as explosion protection, acids, food, cooling lubricants, weld field, etc.",
+                "sub_categories": [
+                    {
+                        "name": "T-slot cylinder sensors",
+                        "pimId": "pim279",
+                        "description": "Voltage 0 ... 250 V DC, 230 V AC. Cable length 0.3, 2.5, 5, 7.5, 0.2 ... 10 m. Connection: plug M8, M12/female thread M5. Electric. - With reed contact. - Non-contacting PNP, NPN. Pneumatic.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "C-slot cylinder sensors",
+                        "pimId": "pim280",
+                        "description": "Voltage 0 ... 250 V DC, 230 V AC. Connection plug M8, M12. Electric. - With reed contact. - Non-contacting PNP, NPN.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Cylinder sensors block design",
+                        "pimId": "pim282",
+                        "description": "Voltage 0 ... 250 V DC, 230 V AC. Cable length 2.5, 5 m. Connection plug M8, M12. Electric. - With reed contact. - Non-contacting PNP, NPN. Pneumatic.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Cylinder signal generators",
+                        "pimId": "pim503",
+                        "description": "Operating pressure range 1 ... 8 bar. Poppet valve design. Barbed fitting for 3 mm I.D. plastic tubing. Pneumatic",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Inductive proximity switches",
+                "pimId": "pim129",
+                "description": "The sensors series SIE... keeps a close eye on all metals, with functions ranging from sensing to distance measurement of metallic objects.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Position sensors",
+                "pimId": "pim130",
+                "description": "Position sensors detect the movement of drives in automated systems and are crucial for the efficiency and accuracy of industrial processes.",
+                "sub_categories": [
+                    {
+                        "name": "Position transmitters",
+                        "pimId": "pim707",
+                        "description": "Position transmitters continuously and contactlessly record the piston movement and transmit this information as analogue or digital values.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Position sensors for rotary drives",
+                        "pimId": "pim708",
+                        "description": "With position sensors for rotary drives, the end position can be precisely detected and the information is transmitted via two switching outputs.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Position sensors for grippers",
+                        "pimId": "pim716",
+                        "description": "Position sensors for grippers enable the end position to be precisely detected and they then transmit the information about the gripping status.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Displacement encoders",
+                        "pimId": "pim709",
+                        "description": "Position sensors for grippers enable the end position to be precisely detected and they then transmit the information about the gripping status.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Pressure and vacuum sensors",
+                "pimId": "pim131",
+                "description": "Pressure sensors and vacuum switches for monitoring all pressure values: programmable, or as a modular product.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Flow sensors",
+                "pimId": "pim132",
+                "description": "By monitoring the flow, simplified diagnostic and condition monitoring processes can be implemented; a change in the flow rate is often an indication that problems are likely to occur. The quality of the final product can also be monitored.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Optical sensors",
+                "pimId": "pim134",
+                "description": "With their optical measuring techniques, the sensors in the SOE... series cover a wide variety of tasks, from recognising colours and tiny parts through to laser distance sensing. All perfectly matched with products and services from Festo.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Signal converters",
+                "pimId": "pim138",
+                "description": "The signal converter SVE4 converts the analogue output signal from a sensor into switching points that can be taught in directly on the signal converter. Ideal anywhere where the accessibility of sensors is restricted.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Limit switch attachments",
+                "pimId": "pim12",
+                "description": "Digital and analogue limit switch boxes with optical display for semi-rotary drives in standard and potentially explosive atmospheres.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Classic",
+                "pimId": "pim531",
+                "description": "Product types for which modern alternatives are now available.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Air gap sensors",
+                "pimId": "pim139",
+                "description": "Pneumatic sensors are contactless signal generators. They are especially suitable for end-position sensing and position monitoring where high accuracy is required. Small dimensions allow them to be used in hard-to-access positions, at a wide range of ambient temperatures and in situations with high levels of dirt.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories",
+                "pimId": "pim141",
+                "description": "Extensive range of accessories for every application.. - Mounting kits. - Sensor brackets. - Clips. - Positioning element",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Compressed air preparation",
+        "pimId": "pim31",
+        "description": "Service unit combinations and individual devices for compressed air preparation",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Air preparation combination units",
+                "pimId": "pim142",
+                "description": "Service units for preparing compressed air, consisting of different combinations of units in two series.",
+                "sub_categories": [
+                    {
+                        "name": "MS basic series",
+                        "pimId": "pim661",
+                        "description": "Best price/performance ratio for the most important functions. Housing made of high-tech polymer with integrated metal thread. Sizes 4, 6. Connection G1/4, G1/2. Pressure 0.1 ... 1 MPa. Standard nominal flow rate 1500 ... 5300&nbsp;l/min. Pressure gauge with bar, psi, MPa. Grade of filtration 5 ... 40 \u00b5m. Condensate drain. - Manual. - Fully automatic",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "MS series",
+                        "pimId": "pim283",
+                        "description": "Size 4, 6, 9. Connection G1/8, G1/4, G3/8, G1/2, G3/4, G1, also available with NPT thread. Pressure 0.3 ... 12 bar. Flow rate 550 ... 14000 l/min. Pressure gauge with bar, psi, MPa. Grade of filtration 0.01 ... 40 \u00b5m. Condensate drain. - Manual. - Semi-automatic. - Fully automatic. Plastic bowl with plastic bowl guard. Metal bowl. Flow direction . - From left to right. - From right to left. Proportional lubricator.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Filter regulator lubricators (FRL)",
+                "pimId": "pim143",
+                "description": "Filter regulator. Lubricators",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim286",
+                        "description": "Sizes: 4, 6. Connection G1/8, G1/4, G3/8, G1/2, also available with NPT thread. Pressure 0.3 ... 7 bar, 0.5 ... 12 bar . Flow rate 800 ... 4800 l/min . Pressure gauge with bar, psi, MPa . Grade of filtration 40 \u00b5m, 5 \u00b5m . Condensate drain. - Manual. - Fully automatic . Plastic bowl with plastic bowl guard . Metal bowl . Flow direction . - From left to right. - From right to left . Proportional lubricator.",
+                        "sub_categories": [],
+                        "engineering_tools": true,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Filter regulators",
+                "pimId": "pim144",
+                "description": "Space-saving design with filter and regulator integrated in a single unit",
+                "sub_categories": [
+                    {
+                        "name": "MS basic series",
+                        "pimId": "pim544",
+                        "description": "Best price-performance ratio for the most important functions. Ideal for OEM: high availability. Housing made of high-tech polymer with integrated metal thread. Can be easily combined with the MS series. Maximum outlet pressure: 0.7 MPa/7 bar. 3 sizes with high flow rates and small dimensions.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "MS series",
+                        "pimId": "pim289",
+                        "description": "For standard applications and application-specific solutions. Optimum product range with the latest functionality. Modular connection system for rapid assembly and disassembly. 5 sizes with very high flow rates and compact dimensions.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim376",
+                        "description": "Individual stainless steel devices for explosive environments",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Compressed air filters",
+                "pimId": "pim145",
+                "description": "Filters for purifying the compressed air for various quality classes. - Standard filter. - Fine filter. - Micro filter. - Activated carbon filter",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim292",
+                        "description": "For standard applications and application-specific solutions. Optimum product range with the latest functionality. Modular connection system for rapid assembly and disassembly. 4 sizes with very high flow rates and minimal dimensions.",
+                        "sub_categories": [
+                            {
+                                "name": "Filters MS-LF",
+                                "pimId": "pim429",
+                                "description": "Sizes: 4, 6, 9, 12. Connection G1/8, G1/4, G3/8, G1/2, G3/4, G1, G1 1/4, G1 1/2, G2 also available with NPT thread. Flow rate 1000 ... 16000 l/min. Inlet pressure 0 ... 20 bar. Grade of filtration 40 \u00b5m, 5 \u00b5m. Condensate drain. - Manual. - Semi-automatic. - Fully automatic. - Fully automatic, electrically controlled. Plastic bowl with plastic bowl guard. Metal bowl. Flow direction . - From left to right. - From right to left",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Fine and micro filters MS-LFM",
+                                "pimId": "pim430",
+                                "description": "Sizes: 4, 6, 9, 12. Connection G1/8, G1/4, G3/8, G1/2, G3/4, G1, G1 1/4, G1 1/2, G2 also available with NPT thread. Flow rate 54 ... 23000 l/min. Inlet pressure 0 ... 20 bar. Grade of filtration 0.01 \u00b5m, 1 \u00b5m. Condensate drain. - Manual. - Semi-automatic. - Fully automatic. - Fully automatic, electrically controlled. Plastic bowl with plastic bowl guard. Metal bowl. Flow direction . - From left to right. - From right to left",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Activated carbon filter MS-LFX",
+                                "pimId": "pim431",
+                                "description": "Sizes: 4, 6, 9, 12. Connection G1/8, G1/4, G3/8, G1/2, G3/4, G1, G1 1/4, G1 1/2, G2 also available with NPT thread. Flow rate 250 ... 7090 l/min. Inlet pressure 0 ... 20 bar. Residual oil content <= 0.003 mg/m\u00b3 . Plastic bowl with plastic bowl guard. Metal bowl. Flow direction . - From left to right. - From right to left. Air quality class at the output to DIN ISO 8573-1. Prefiltration with 0.01 \u00b5m grade of filtration recommended.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS basic series",
+                        "pimId": "pim692",
+                        "description": "Basic series, housing made of high-tech polymer with integrated metal thread.. Lightweight, sturdy construction.. Easy to combine with the MS series.",
+                        "sub_categories": [
+                            {
+                                "name": "Filter MS-LF-B",
+                                "pimId": "pim693",
+                                "description": "Basic series, air filter function (LF). Housing made of high-tech polymer with integrated metal thread.. Lightweight, sturdy construction.. Size 2.. Easy to combine with the MS series.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim294",
+                        "description": "Filter silencers.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Filter cartridges",
+                        "pimId": "pim295",
+                        "description": "Cartridges for all grades of filtration.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Pressure regulators",
+                "pimId": "pim146",
+                "description": "Pressure regulators for air preparation. - Standard regulators with different pressure regulation ranges. - Precision pressure regulating valves. - Electrically actuated pressure regulators. - Regulator manifolds",
+                "sub_categories": [
+                    {
+                        "name": "MS basic series",
+                        "pimId": "pim527",
+                        "description": "Best price/performance ratio for the most important functions. Ideal for OEM: high availability. Housing made of high-tech polymer with integrated metal thread. Can be easily combined with the MS series. Maximum outlet pressure: 0.7 MPa/7 bar. 3 sizes with high flow rates and small dimensions.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "MS series",
+                        "pimId": "pim296",
+                        "description": "Compressed air preparation for the most demanding requirements. Optimum product range with very comprehensive functionality. Modular connection system for rapid assembly and disassembly. Maximum output pressure: 1.6 MPa/16 bar. 4 sizes with the highest flow rates and compact dimensions",
+                        "sub_categories": [
+                            {
+                                "name": "Pressure regulators MS-LR",
+                                "pimId": "pim432",
+                                "description": "Size 2, 4, 6, 9, 12. Connection M5, QS-6, G1/8, G1/4, G3/8, G1/2, G3/4, G1, G1 1/4, G1 1/2, G2, also available with NPT thread. Pressure 0.3 ... 4\u00a0bar, 0.3 ... 7 bar, 0.5 ... 7 bar, 0.5 ... 12\u00a0bar, 0.5 ... 16 bar. Flow rate 170 ... 22000 l/min. Pressure gauge with bar, psi, MPa. Flow direction. - From left to right. - From right to left. Angled outlet block for manifold assembly.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pressure regulators for manifold assembly MS-LRB",
+                                "pimId": "pim433",
+                                "description": "Sizes: 4, 6. Connection G1/4, G1/2. Pressure 0.3 ... 4\u00a0bar, 0.3 ... 7 bar, 0.5 ... 12\u00a0bar, 0.5 ... 16 bar. Flow rate 300 ... 7300 l/min. Manifold assembly with through air supply. For configuring a regulator manifold with independent pressure regulation ranges.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Precision pressure regulators MS-LRP",
+                                "pimId": "pim434",
+                                "description": "Size: 6. Connection G 1/4, G 3/8, G 1/2, G 3/4, also available with NPT thread. Pressure: 0.05 ... 0.7\u00a0bar, 0.05 ... 2.5\u00a0bar, 0.3 ... 4\u00a0bar, 0.5 ... 12 bar. Flow rate 800 ... 5000 l/min. Flow direction . - From left to right. - From right to left. Angled outlet block for manifold assembly.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Precision pressure regulators for manifold assembly MS-LRPB",
+                                "pimId": "pim435",
+                                "description": "Size: 6. Connection G 1/4, G 3/8, G 1/2, G 3/4, also available with NPT thread. Pressure: 0.05 ... 0.7\u00a0bar, 0.05 ... 2.5\u00a0bar, 0.3 ... 4\u00a0bar, 0.5 ... 12 bar. Flow rate 800 ... 5000 l/min. Flow direction . - From left to right. - From right to left. Angled outlet block for manifold assembly.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim299",
+                        "description": "For standard applications as an individual component. Precision pressure regulator.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Air lubricators",
+                "pimId": "pim147",
+                "description": "Lubricators for improving the compressed air as lubricant for pneumatic components.",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim300",
+                        "description": "For standard applications and application-specific solutions. Optimum product range with the latest functionality. Modular connection system for rapid assembly and disassembly. 4 sizes with very high flow rates and minimal dimensions.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Shut off valves and soft-start dump valves",
+                "pimId": "pim148",
+                "description": "On/off valves for switching on and exhausting systems.. Soft-start valves for gradual pressure build-up.",
+                "sub_categories": [
+                    {
+                        "name": "MS basic series",
+                        "pimId": "pim656",
+                        "description": "Best price/performance ratio for the most important functions. Ideal for OEM: high level of availability. Housing made of high-tech polymer with integrated metal thread. Easy to combine with the MS series. Maximum output pressure: 0.7 MPa/7 bar. 3 sizes with high flow rates and compact dimensions.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "MS series",
+                        "pimId": "pim302",
+                        "description": "For standard applications and application-specific solutions. Optimum product range with the latest functionality. Modular connection system for rapid assembly and disassembly. 4 sizes with very high flow rates and minimal dimensions.",
+                        "sub_categories": [
+                            {
+                                "name": "Soft-start/quick exhaust valves MS-SV",
+                                "pimId": "pim437",
+                                "description": "Size: 6, 9. Connection G1/2, G3/4, G1 also available with NPT thread . Pressure: 3.5 ... 16 bar . Flow rate 16000\u00a0l/min . Voltage 24\u00a0V\u00a0DC, 110\u00a0V\u00a0AC, 230\u00a0V\u00a0AC. Actuation . Solenoid actuated. Pressure gauge with bar, psi, MPa . 3/2-way valve, normally closed . Silencer . Flow direction . - From left to right . - From right to left",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Manually operated on/off valves MS-EM",
+                                "pimId": "pim438",
+                                "description": "Sizes: 4, 6, 9, 12. Connection G1/8, G1/4, G3/8, G1/2, G3/4, G1, G1 1/4, G1 1/2, G2 also available with NPT thread. Pressure 0 ... 21 bar. Flow rate 1200 ... 32000 l/min. Actuation. - Manually actuated. 3/2-way valve, normally closed. Silencer. Flow direction . - From left to right. - From right to left",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Solenoid actuated on/off valves MS-EE",
+                                "pimId": "pim439",
+                                "description": "Sizes: 4, 6, 9, 12. Connection G1/8, G1/4, G3/8, G1/2, G3/4, G1, G1 1/4, G1 1/2, G2 also available with NPT thread. Pressure 3 ... 18 bar. Flow rate 1000 ... 32000 l/min. Voltage 24\u00a0V\u00a0DC, 110, 230\u00a0V\u00a0AC. Actuation. - Solenoid actuated. 3/2-way valve, normally closed. Silencer. Flow direction . - From left to right. - From right to left",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Pneumatically actuated soft-start valves MS-DL",
+                                "pimId": "pim440",
+                                "description": "Sizes 4, 6, 12. Connection G1/8, G1/4, G3/8, G1/2, G3/4, G1, G1 1/4, G1 1/2, G2 also available with NPT thread. Pressure 2 ... 21 bar. Flow rate 1000 ... 42000 l/min. Actuation. - Pneumatically actuated. Silencer. Flow direction . - From left to right. - From right to left. To slowly pressurise and exhaust pneumatic systems. (to be used with on/off valves EM1 and EE)",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Solenoid actuated soft-start valves MS-DE",
+                                "pimId": "pim441",
+                                "description": "Sizes 4, 6, 12. Connection G1/8, G1/4, G3/8, G1/2, G3/4, G1, G1 1/4, G1 1/2, G2 also available with NPT thread. Pressure 3 ... 18 bar. Flow rate 1000 ... 42000 l/min. Voltage 24\u00a0V\u00a0DC, 110, 230\u00a0V\u00a0AC. Actuation. - Solenoid actuated. Silencer. Flow direction. - From left to right. - From right to left. To slowly pressurise and exhaust pneumatic systems. (to be used with on/off valves EM1 and EE)",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim305",
+                        "description": "Shut-off valve. Soft-start valve, pneumatic/electric. Valves for slow pressure control and exhausting in the system.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Air dryers",
+                "pimId": "pim149",
+                "description": "Adsorption dryer with specific pressure dew point and high flow rate, as well as membrane air dryer with flow-rate-dependent pressure dew point.",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim306",
+                        "description": "For standard applications and application-specific solutions. Optimum product range with the latest functionality. Modular connection system for rapid assembly and disassembly. 4 sizes with very high flow rates and minimal dimensions.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim308",
+                        "description": "End position dryer for very low pressure dew points (-40\u00b0C/-70\u00b0C). Use as individual device in compressed air supply lines. Flow rate range up to 2400 l/min.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Compressed air porting blocks",
+                "pimId": "pim150",
+                "description": "Branching modules and distributor blocks as an intermediate outlet for different qualities of compressed air.",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim309",
+                        "description": "For standard applications and application-specific solutions. Optimum product range with the latest functionality. Modular connection system for rapid assembly and disassembly. 4 sizes with very high flow rates and compact dimensions.",
+                        "sub_categories": [
+                            {
+                                "name": "Branching module MS-FRM",
+                                "pimId": "pim442",
+                                "description": "Sizes: 4, 6, 9, 12. Connection G1/8, G1/4, G3/8, G1/2, G3/4, G1, G1 1/4, G1 1/2 also available with NPT thread. Pressure 0 ... 21 bar. Flow rate 1200 ... 42000 l/min. Threaded connection plates. - Without threaded connection plates. - With threaded connection plates.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Distributor block MS-FRM-FRZ",
+                                "pimId": "pim443",
+                                "description": "Sizes: 4, 6. Connection G1/4, G1/2 also available with NPT thread. Pressure 0 ... 20 bar. Flow rate 4050 ... 14600 l/min",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim311",
+                        "description": "Branching modules for individual devices",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Generators",
+                "pimId": "pim679",
+                "description": "A generator produces compressed air to supply pneumatically actuated and driven systems, and also provides pressure and vacuum for handling liquids.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Condensate drains",
+                "pimId": "pim151",
+                "description": "Condensate drain for attaching to service units and compressed air networks and systems, for automatically draining the collected condensate.",
+                "sub_categories": [
+                    {
+                        "name": "MS series",
+                        "pimId": "pim312",
+                        "description": "Size: 6. Connection G 1/4, G 3/8, G 1/2, G 3/4, also available with NPT thread. Pressure 0.8 ... 16 bar. Fully automatic condensate drain. Actuation. -Manual. -Electric",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Individual devices",
+                        "pimId": "pim371",
+                        "description": "Condensate drains",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Air boosters",
+                "pimId": "pim152",
+                "description": "Components for pressure boosting in one section of a system.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Pressure gauges",
+                "pimId": "pim153",
+                "description": "Pressure indicators for compressed air preparation.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Classic",
+                "pimId": "pim532",
+                "description": "Product types for which modern alternatives are now available.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories for air preparation",
+                "pimId": "pim154",
+                "description": "Assembly components. Sub-bases. Safety components. Pressure indicators. Device-specific accessories.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Tubes, fittings, plugs and cables",
+        "pimId": "pim33",
+        "description": "We offer a wide range of pneumatic and electric connectors.. - Tubing, fittings and distributors for a range of working environments. - Electrical connecting cables and plugs with a variety of connection technology",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Electrical connection technology",
+                "pimId": "pim208",
+                "description": "Cables. Pre-assembled plugs. Connecting cables. Distributors and adapters. Status indications.",
+                "sub_categories": [
+                    {
+                        "name": "Connecting cables",
+                        "pimId": "pim322",
+                        "description": "Universal connecting cables. Connecting cables for. - Controllers. - Motors. - Valves. - Valve terminal",
+                        "sub_categories": [
+                            {
+                                "name": "Connecting cables, universal",
+                                "pimId": "pim451",
+                                "description": "Unlimited combination options of plugs, plug sockets, cable lengths and qualities. Adapted to all devices with M8 and M12 plugs, such as:. - Proximity sensors. - Position transmitters. - Pressure switches, pressure sensors, pressure transmitters. - Flow sensors. - Optical and inductive sensors. - Valves with central connectors, such as CPE, MPA or VSVA. Cable length 0.1 ... 30 m.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Connecting cables for controllers",
+                                "pimId": "pim452",
+                                "description": "Connecting cables for. - Controllers. - Camera systems. - I/O interfaces. and their electrical peripherals. . Other versions under Connecting cables, universal",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Connecting cables for motors",
+                                "pimId": "pim453",
+                                "description": "Connecting cables for motors and motor controllers.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Connecting cables for valves",
+                                "pimId": "pim454",
+                                "description": "Connecting cables for all solenoid coil designs. . Other versions under Connecting cables, universal",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Connecting cables for valve terminals",
+                                "pimId": "pim455",
+                                "description": "Connecting cables for . - Input and output modules:. - CP electrical components. Connecting cables for . - Electr. multi-pin plugs. - Relay plates. - Analogue devices and proportional valves. Fieldbus adapters. . Other versions under Connecting cables, universal",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Connecting cables for sensors",
+                                "pimId": "pim456",
+                                "description": "Connecting cables for sensors. . Other versions under Connecting cables, universal",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plug connectors",
+                        "pimId": "pim323",
+                        "description": "Universal plug connectors. Plug connectors for. - Controllers. - Valves. - Valve terminal. - Sensors",
+                        "sub_categories": [
+                            {
+                                "name": "Universal plugs",
+                                "pimId": "pim457",
+                                "description": "Plug connectors for. - Power supply. - Electr. inputs/outputs. - AS-interface",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Plugs for controllers",
+                                "pimId": "pim458",
+                                "description": "Plug connectors for . - Motor controller and multi-axis control systems. - Front unit controllers FEC. - Bus connection CAN bus and PROFIBUS. - Motor controllers CMMP-AS, CMMS-ST",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Plugs for valves",
+                                "pimId": "pim459",
+                                "description": "Plug sockets for all solenoid coil designs. Time delay inserts. Illuminating seals and indicator inserts. Soldering base for miniature valve PCB mounting . Angled plug socket for proportional pressure regulators.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Plugs for valve terminals",
+                                "pimId": "pim460",
+                                "description": "Plug connectors for . - Fieldbus connection. - Power supply. - Electr. inputs/outputs. - Electr. multi-pin plugs",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Plugs for sensors",
+                                "pimId": "pim461",
+                                "description": "Angled plug socket for . - Pressure switch PEV. - Semi-rotary drive DSMI",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Plugs for motors",
+                                "pimId": "pim518",
+                                "description": "Adapter for encoder cable",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Classic",
+                        "pimId": "pim697",
+                        "description": "Product types for which modern alternatives are now available.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories for electrical connection technology",
+                        "pimId": "pim324",
+                        "description": "Cable sleeves, cover caps, display and plug adapters.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Pneumatic connection technology",
+                "pimId": "pim209",
+                "description": "Pipes. Tubing. Plugs. Couplings. Distributors. Protective conduit systems. Accessories.",
+                "sub_categories": [
+                    {
+                        "name": "Pneumatic tubing",
+                        "pimId": "pim314",
+                        "description": "Tubing for an extremely wide range of working environments, also in food-safe, flame retardant, PWIS-free and media-resistant versions.",
+                        "sub_categories": [
+                            {
+                                "name": "Standard pneumatic tubing",
+                                "pimId": "pim444",
+                                "description": "Outside diameter 2, 3, 4, 6, 8, 10, 12, 14, 16, 22, 28 mm. Outside diameter 1/8\", 5/32\", 3/16\", 1/4\", 5/16\", 3/8\", 1/2\", 5/8\". Standard O.D.. Operating medium. - Compressed air. - Vacuum. - Water. Materials. - Polyamide. - Polyvinyl chloride. - Perfluoroalkoxyalkane. - Polyethylene. - Polyurethane. DUO tubing. 2 tubes fused together",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Standard I.D. tubing",
+                                "pimId": "pim445",
+                                "description": "Diameter: 9, 13 mm. Standard I.D.. Operating medium. - Compressed air. - Vacuum. Material. - Polyurethane",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Spiral tubing",
+                                "pimId": "pim446",
+                                "description": "Diameter 4, 6, 8, 10, 12\u00a0mm. Working length 2.4, 4.8, 6, 7.5, 15 m. Operating medium. - Compressed air. - Vacuum. - Water. Materials. - Polyamide. - Polyurethane. Assembled with fitting.",
+                                "sub_categories": [],
+                                "engineering_tools": true,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pneumatic fittings",
+                        "pimId": "pim315",
+                        "description": "Line connection (fitting) and line connection components with push-in or barbed fitting connector for the cables.. Typical designs for push-in fittings and connections are: straight, L, T, X, Y . This includes special accessories such as blanking plugs.",
+                        "sub_categories": [
+                            {
+                                "name": "Push-in fittings",
+                                "pimId": "pim447",
+                                "description": "Straight to the right fitting \u2013 a reliable solution for every connection. The convenient fitting system includes well over 1000 types of standard and function fittings.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Barbed fittings",
+                                "pimId": "pim448",
+                                "description": "Push-in connection with additional mechanical locking (union nut).",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Threaded fittings",
+                                "pimId": "pim449",
+                                "description": "Line connection components with additional functions, such as rotating, self-sealing, etc. or non-adjustable flow control function.",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            },
+                            {
+                                "name": "Click fittings",
+                                "pimId": "pim450",
+                                "description": "Quick and simple tube installation using one hand. Reliable assembly: click sound indicates that the open or closed position has been reached.  . Low leakage, no scratching of the tube by retaining claws",
+                                "sub_categories": [],
+                                "engineering_tools": false,
+                                "integrated_engineering_tools": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pneumatic piping systems",
+                        "pimId": "pim316",
+                        "description": "Polyamide, wrought aluminium alloy, polyethylene. Outside diameter: 6 ... 28 mm. Operating pressure: -0.95 ... 30 bar. Ambient temperature -30 ... 75\u00b0C. Operating medium. - Compressed air. - Vacuum. - Fluids",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic piping fittings",
+                        "pimId": "pim317",
+                        "description": "Connection G3/8, G1/2, G3/4, G1. Diameter 12, 15, 18, 22, 28 mm.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic couplings",
+                        "pimId": "pim318",
+                        "description": "Self-sealing connecting components (always socket-plug combination).",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic multi connectors",
+                        "pimId": "pim319",
+                        "description": "Connecting component with one connection and more than 2 outputs, excluding push-in X-connectors.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Pneumatic conduits",
+                        "pimId": "pim320",
+                        "description": "Protective conduits and accessories for protective conduit systems.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Classic",
+                        "pimId": "pim695",
+                        "description": "Product types for which modern alternatives are now available.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    },
+                    {
+                        "name": "Accessories for pneumatic connection technology",
+                        "pimId": "pim321",
+                        "description": "Components for cables and cable connections with self-contained functionality, such as blanking plugs, double nipples, tubing cutters, etc.",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            },
+            {
+                "name": "Connection technology for fluid media",
+                "pimId": "pim542",
+                "description": "Fittings for laboratory applications",
+                "sub_categories": [
+                    {
+                        "name": "Fittings for liquid media",
+                        "pimId": "pim543",
+                        "description": "Fittings for laboratory applications",
+                        "sub_categories": [],
+                        "engineering_tools": false,
+                        "integrated_engineering_tools": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Control technology and remote I/O",
+        "pimId": "pim37",
+        "description": "Electronic controllers and remote I/O including electrical peripherals for standard and potentially explosive atmospheres.",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Pneumatic logic control",
+                "pimId": "pim155",
+                "description": "Pneumatic/mechanical sequencer and command module. Steppers. Control block for two-hand start. Local controllers.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Programmable logic controllers (PLC)",
+                "pimId": "pim156",
+                "description": "Compact controllers with serial and Ethernet interfaces.",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Remote I/O and network interface components",
+                "pimId": "pim157",
+                "description": "Electric components for valve terminals. AS-Interface components",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Controllers and motion control",
+                "pimId": "pim241",
+                "description": "Motion controller CPX. Controller CMXH",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Human machine interface (HMI)",
+                "pimId": "pim158",
+                "description": "Display and operating units for controllers and electrical terminals.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Valve positioners",
+                "pimId": "pim15",
+                "description": "Electropneumatic positioner for control functions in combination with semi-rotary drives.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Documentation",
+                "pimId": "pim213",
+                "description": "Operating instructions/manuals",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Accessories",
+                "pimId": "pim212",
+                "description": "Electric and mechanical accessories and assembly components",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Training systems",
+                "pimId": "pim507",
+                "description": "EduTrainer Universal",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Software",
+        "pimId": "pim160",
+        "description": "Software and user documentation.",
+        "long_description": "",
+        "sub_categories": []
+    },
+    {
+        "name": "Function-specific systems",
+        "pimId": "pim39",
+        "description": "Function-specific systems always consist of application software, a controller, and selected and suitable hardware. These systems are always associated with a type of joining technology and are highly application-specific.",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Servo press systems",
+                "pimId": "pim202",
+                "description": "In production engineering, joining refers to several different production methods whereby two or more solid workpieces are connected, i.e. joined, with a geometrically defined shape. Examples include pressing, welding, soldering, brazing and gluing.",
+                "sub_categories": [],
+                "engineering_tools": true,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Pneumatic balancers",
+                "pimId": "pim214",
+                "description": "Servo-pneumatic drive solutions for all types of balancers",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Other pneumatic components",
+        "pimId": "pim40",
+        "description": "Function-specific systems always consist of user software, a controller as well as selected and suitable hardware. These systems are always designated forjoining technology and are highly application-oriented.",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Air reservoirs",
+                "pimId": "pim162",
+                "description": "Components for storing compressed air.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Pneumatic silencers",
+                "pimId": "pim163",
+                "description": "Component to reduce the exhaust noise.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Compressed air guns",
+                "pimId": "pim164",
+                "description": "Air guns and nozzles.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Pressure indicators",
+                "pimId": "pim165",
+                "description": "Components for visual pressure indication.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Labelling systems",
+                "pimId": "pim166",
+                "description": "Inscription labels. Inscription label holders.",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    },
+    {
+        "name": "Services",
+        "pimId": "pim646",
+        "description": "Commissioning services for Festo products and solutions on site or remotely. Certified services for saving compressed air and energy",
+        "long_description": "",
+        "sub_categories": [
+            {
+                "name": "Commissioning services",
+                "pimId": "pim647",
+                "description": "Commissioning of Festo products and solutions on site or remote",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            },
+            {
+                "name": "Energy Saving Services",
+                "pimId": "pim648",
+                "description": "Certified services for saving compressed air and energy",
+                "sub_categories": [],
+                "engineering_tools": false,
+                "integrated_engineering_tools": false
+            }
+        ]
+    }
+]
