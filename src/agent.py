@@ -40,6 +40,7 @@ from scripts.v1.engineering_tool_functions import get_available_engineering_tool
 import asyncio
 
 logger = logging.getLogger("agent")
+logging.basicConfig(level=logging.DEBUG)  # Set to DEBUG for detailed logging
 
 load_dotenv()
 
@@ -165,10 +166,11 @@ class ChatHistoryManager:
     def __init__(self, room_name: str):
         self.room_name = room_name
         self.chat_history: List[Dict[str, Any]] = []
-        self.filename = f"chat_history.json"
+        self.filename = f"chat_history_{room_name}.json"  # Unique filename per room
         # Create chat_logs directory if it doesn't exist
         os.makedirs("chat_logs", exist_ok=True)
         self.filepath = os.path.join("chat_logs", self.filename)
+        logger.debug(f"Initialized ChatHistoryManager for room: {room_name}, filepath: {self.filepath}")
         
     def add_message(self, role: str, content: str, timestamp: str = None, metadata: dict = None):
         """Add a message to chat history and save to file"""
@@ -201,7 +203,8 @@ class ChatHistoryManager:
             
             with open(self.filepath, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
-                
+            logger.debug(f"Saved chat history to {self.filepath}")
+
         except Exception as e:
             logger.error(f"Failed to save chat history: {e}")
 
@@ -302,7 +305,19 @@ WORKFLOW:
 
 
         """Get all main categories from the IoT hardware shop."""
-        return find_main_categories()
+        self.chat_manager.add_message(
+            role="system", 
+            content=f"Function call: get_main_categories",
+            metadata={"function": "get_main_categories"}
+        )
+        result = find_main_categories()
+
+        self.chat_manager.add_message(
+            role="assistant", 
+            content=f"Main categories retrieved successfully.",
+            metadata={"result": result}
+        )
+        return result
     
     @function_tool
     async def check_sub_category_available(self, context: RunContext, pimId: str):
@@ -319,15 +334,30 @@ WORKFLOW:
 
         """Check if any sub categories are available for a given pimId."""
         categories = find_by_pimid(pimId)
+
+        logger.info(f"Checking sub categories for pimId: {pimId}, found: {len(categories)} categories.")
+        self.chat_manager.add_message(
+            role="system",
+            content=f"Function call: check_sub_category_available with pimId {pimId}",
+            metadata={"function": "check_sub_category_available", "pimId": pimId}
+        )
+
         if len(categories) > 0:
-            return categories
+            result = categories
         else:
-            return "No sub categories available for this pimId"     
+            result = "No sub categories available for this pimId"
+
+        self.chat_manager.add_message(
+            role="assistant",
+            content=f"Sub categories check completed.",
+            metadata={"result": result}
+        )
+        return result
 
     @function_tool
     async def get_next_filter_question(self, context: RunContext, endSubCategoryPimId: str):
 
-        room_id = 124
+        room_id = self.chat_manager.room_name
     # """Get the next filter question for a given end-level subcategory pimId."""
 
         # Initialize conversation_states for this room_id if not exists
@@ -574,6 +604,19 @@ async def entrypoint(ctx: JobContext):
     #     llm=openai.realtime.RealtimeModel()
     # )
 
+        # Robust message content extraction
+    def get_message_content(message) -> str:
+        """Extract content from message, handling various formats"""
+        if hasattr(message, 'content') and message.content:
+            return str(message.content)
+        elif isinstance(message, dict) and 'content' in message:
+            return str(message['content'])
+        elif isinstance(message, str):
+            return message
+        else:
+            logger.warning(f"Unexpected message formatbury: {message}")
+            return str(message)
+        
     # Event handlers to track conversation in real-time
     @session.on("user_started_speaking")
     def on_user_started_speaking():
@@ -615,7 +658,8 @@ async def entrypoint(ctx: JobContext):
     @session.on("user_speech_committed")
     def on_user_speech_committed(message):
         """Triggered when user speech is transcribed and committed"""
-        content = message.content if hasattr(message, 'content') else str(message)
+        content = get_message_content(message)
+        logger.debug(f"Event: User speech committed - Content: {content}")
         chat_manager.add_message(
             role="user",
             content=content,
@@ -626,7 +670,8 @@ async def entrypoint(ctx: JobContext):
     @session.on("agent_speech_committed")
     def on_agent_speech_committed(message):
         """Triggered when agent speech is committed"""
-        content = message.content if hasattr(message, 'content') else str(message)
+        content = get_message_content(message)
+        logger.debug(f"Event: Agent speech committed - Content: {content}")
         chat_manager.add_message(
             role="assistant", 
             content=content,
@@ -636,7 +681,8 @@ async def entrypoint(ctx: JobContext):
     # Alternative event handlers (different versions might use different event names)
     @session.on("user_message")
     def on_user_message(message):
-        content = message.content if hasattr(message, 'content') else str(message)
+        content = get_message_content(message)
+        logger.debug(f"Event: User message - Content: {content}")
         chat_manager.add_message(
             role="user",
             content=content,
@@ -645,7 +691,8 @@ async def entrypoint(ctx: JobContext):
 
     @session.on("agent_message")
     def on_agent_message(message):
-        content = message.content if hasattr(message, 'content') else str(message)
+        content = get_message_content(message)
+        logger.debug(f"Event: Agent message - Content: {content}")
         chat_manager.add_message(
             role="assistant",
             content=content,
@@ -655,6 +702,7 @@ async def entrypoint(ctx: JobContext):
     # Track room events
     @session.on("participant_connected")
     def on_participant_connected(participant):
+        logger.debug(f"Event: Participant connected - ID: {participant.identity}")
         chat_manager.add_message(
             role="system",
             content=f"Participant connected: {participant.identity}",
@@ -663,6 +711,7 @@ async def entrypoint(ctx: JobContext):
 
     @session.on("participant_disconnected")
     def on_participant_disconnected(participant):
+        logger.debug(f"Event: Participant disconnected - ID: {participant.identity}")
         chat_manager.add_message(
             role="system",
             content=f"Participant disconnected: {participant.identity}",
@@ -674,12 +723,13 @@ async def entrypoint(ctx: JobContext):
 
     @session.on("metrics_collected")
     def _on_metrics_collected(ev: MetricsCollectedEvent):
+        logger.debug(f"Event: Metrics collected - {ev.metrics}")
         metrics.log_metrics(ev.metrics)
         usage_collector.collect(ev.metrics)
 
     async def log_usage():
         summary = usage_collector.get_summary()
-        logger.info(f"Usage: {summary}")
+        logger.debug(f"Usage summary: {summary}")
         # Log session end
         chat_manager.add_message(
             role="system",
