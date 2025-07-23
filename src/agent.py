@@ -19,9 +19,10 @@ from livekit.agents import (
 )
 
 from livekit.plugins import (
-    groq,
     deepgram,
+    
 )
+from livekit.plugins import anthropic
 
 
 from livekit.agents.llm import function_tool
@@ -237,7 +238,7 @@ class Assistant(Agent):
             3. When user provides a new answer, call validate_filter_answer to validate it
             4. After successful validation, return to step 1 (call get_next_filter_question)
             5. Continue until get_next_filter_question returns "All filter questions are answered"
-            6. Once complete, immediately call generate_final_url to provide product recommendations
+            6. Once complete, immediately call generate_final_url to get product final url
             
             Important Rules:
             - NEVER call multiple functions without user interaction between them
@@ -548,7 +549,9 @@ async def entrypoint(ctx: JobContext):
         #     language="en",
         # ),
 
-        llm=openai.realtime.RealtimeModel(model="gpt-4o-realtime-preview",temperature=0.1),
+        llm=anthropic.LLM(model="claude-3-5-sonnet-20240620"),
+
+        # llm=openai.realtime.RealtimeModel(model="gpt-4o-realtime-preview",temperature=0.1),
 
         # llm=groq.LLM(
         #     # model="llama3-8b-8192"

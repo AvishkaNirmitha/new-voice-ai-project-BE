@@ -680,5 +680,143 @@
             "extract_code": "NONE",
             "response_content": "===CODE==={\"code\": \"NONE\"}===END_CODE==="
         }
+    ],
+    "voice_assistant_room_9190": [
+        {
+            "timestamp": "2025-07-23T10:38:15.746956",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a strict value extractor.\n\n                Your task is to:\n                - Extract a numeric value from the user's answer.\n                - The value must be between 0.1 and 15 (inclusive).\n                - The value must be a multiple of 0.1 relative to the minimum value.\n                - If the user gives a decimal number, round it to the **nearest multiple of 0.1**.\n                - If the rounded value falls outside the valid range, return `\"None\"`.\n                - Return the value with the same precision as the sliderStep (e.g., if sliderStep is 0.1, return one decimal place).\n\n                Instructions:\n                - Return a **numeric value** that is a multiple of 0.1 within the given range.\n                - The output format must be (strictly this, no explanation):\n                ===CODE==={\"code\": <numeric_value>}===END_CODE===\n                - If the value is out of range or not a valid multiple of 0.1, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What is the minimum payload you need for your parallel gripper, with a range of 0.1 to 15 kg?\n                User's Answer: 10 kg\n                Valid Range: 0.1 to 15 kg\n                Step: 0.1 kg",
+            "question": "What is the minimum payload you need for your parallel gripper, with a range of 0.1 to 15 kg?",
+            "user_answer": "10 kg",
+            "extract_code": "10.0",
+            "response_content": "===CODE==={\"code\": 10.0}===END_CODE==="
+        }
+    ],
+    "voice_assistant_room_4335": [
+        {
+            "timestamp": "2025-07-23T10:39:24.085743",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a strict value extractor.\n\n                Your task is to:\n                - Extract a numeric value from the user's answer.\n                - The value must be between 0.1 and 15 (inclusive).\n                - The value must be a multiple of 0.1 relative to the minimum value.\n                - If the user gives a decimal number, round it to the **nearest multiple of 0.1**.\n                - If the rounded value falls outside the valid range, return `\"None\"`.\n                - Return the value with the same precision as the sliderStep (e.g., if sliderStep is 0.1, return one decimal place).\n\n                Instructions:\n                - Return a **numeric value** that is a multiple of 0.1 within the given range.\n                - The output format must be (strictly this, no explanation):\n                ===CODE==={\"code\": <numeric_value>}===END_CODE===\n                - If the value is out of range or not a valid multiple of 0.1, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What is the minimum payload you need for your parallel gripper, with a range of 0.1 to 15 kg?\n                User's Answer: 10kg\n                Valid Range: 0.1 to 15 kg\n                Step: 0.1 kg",
+            "question": "What is the minimum payload you need for your parallel gripper, with a range of 0.1 to 15 kg?",
+            "user_answer": "10kg",
+            "extract_code": "10.0",
+            "response_content": "===CODE==={\"code\": 10.0}===END_CODE==="
+        },
+        {
+            "timestamp": "2025-07-23T10:39:42.277409",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a matching engine. The user has answered a question using natural language.\n\n                Your task is to:\n                - Identify the best-matching value from the given list of values.\n                - Match the user's answer against the `name` field in the values (case-insensitive, approximate match allowed).\n                - Return the corresponding `code`.\n\n                Instructions:\n                - You are given a question and a user's answer.\n                - User can only answer for one value.\n                - The values are provided in a structured format.\n                - Only use the `name` field to identify a match. Accept flexible formats (e.g., '10' matches '10.0').\n                - Return the result strictly in this format without any additional text:\n                ===CODE==={\"code\": \"<matched_code>\"}===END_CODE===\n                - If no match is found, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What safety factor would you like for your parallel gripper: 2, 3, or 4?\n                User's Answer: 3\n                Values: [{'name': '2', 'code': '2'}, {'name': '3', 'code': '3'}, {'name': '4', 'code': '4'}]",
+            "question": "What safety factor would you like for your parallel gripper: 2, 3, or 4?",
+            "user_answer": "3",
+            "extract_code": "3",
+            "response_content": "===CODE==={\"code\": \"3\"}===END_CODE==="
+        }
+    ],
+    "voice_assistant_room_4284": [
+        {
+            "timestamp": "2025-07-23T10:48:48.656485",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a strict value extractor.\n\n                Your task is to:\n                - Extract a numeric value from the user's answer.\n                - The value must be between 0.1 and 15 (inclusive).\n                - The value must be a multiple of 0.1 relative to the minimum value.\n                - If the user gives a decimal number, round it to the **nearest multiple of 0.1**.\n                - If the rounded value falls outside the valid range, return `\"None\"`.\n                - Return the value with the same precision as the sliderStep (e.g., if sliderStep is 0.1, return one decimal place).\n\n                Instructions:\n                - Return a **numeric value** that is a multiple of 0.1 within the given range.\n                - The output format must be (strictly this, no explanation):\n                ===CODE==={\"code\": <numeric_value>}===END_CODE===\n                - If the value is out of range or not a valid multiple of 0.1, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What is the minimum payload you need for your parallel gripper, with a range of 0.1 to 15 kg?\n                User's Answer: 10kg\n                Valid Range: 0.1 to 15 kg\n                Step: 0.1 kg",
+            "question": "What is the minimum payload you need for your parallel gripper, with a range of 0.1 to 15 kg?",
+            "user_answer": "10kg",
+            "extract_code": "10.0",
+            "response_content": "===CODE==={\"code\": 10.0}===END_CODE==="
+        },
+        {
+            "timestamp": "2025-07-23T10:48:51.803474",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a matching engine. The user has answered a question using natural language.\n\n                Your task is to:\n                - Identify the best-matching value from the given list of values.\n                - Match the user's answer against the `name` field in the values (case-insensitive, approximate match allowed).\n                - Return the corresponding `code`.\n\n                Instructions:\n                - You are given a question and a user's answer.\n                - User can only answer for one value.\n                - The values are provided in a structured format.\n                - Only use the `name` field to identify a match. Accept flexible formats (e.g., '10' matches '10.0').\n                - Return the result strictly in this format without any additional text:\n                ===CODE==={\"code\": \"<matched_code>\"}===END_CODE===\n                - If no match is found, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What safety factor would you like for your parallel gripper: 2, 3, or 4?\n                User's Answer: 2\n                Values: [{'name': '2', 'code': '2'}, {'name': '3', 'code': '3'}, {'name': '4', 'code': '4'}]",
+            "question": "What safety factor would you like for your parallel gripper: 2, 3, or 4?",
+            "user_answer": "2",
+            "extract_code": "2",
+            "response_content": "===CODE==={\"code\": \"2\"}===END_CODE==="
+        },
+        {
+            "timestamp": "2025-07-23T10:48:54.869238",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a matching engine. The user has answered a question using natural language.\n\n                Your task is to:\n                - Identify the best-matching value from the given list of values.\n                - Match the user's answer against the `name` field in the values (case-insensitive, approximate match allowed).\n                - Return the corresponding `code`.\n\n                Instructions:\n                - You are given a question and a user's answer.\n                - User can only answer for one value.\n                - The values are provided in a structured format.\n                - Only use the `name` field to identify a match. Accept flexible formats (e.g., '10' matches '10.0').\n                - Return the result strictly in this format without any additional text:\n                ===CODE==={\"code\": \"<matched_code>\"}===END_CODE===\n                - If no match is found, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What gripping direction are you looking for: Closing or Opening?\n                User's Answer: Closed\n                Values: [{'name': 'Closing', 'code': 'CLOSING'}, {'name': 'Opening', 'code': 'OPENING'}]",
+            "question": "What gripping direction are you looking for: Closing or Opening?",
+            "user_answer": "Closed",
+            "extract_code": "CLOSING",
+            "response_content": "===CODE==={\"code\": \"CLOSING\"}===END_CODE==="
+        },
+        {
+            "timestamp": "2025-07-23T10:49:18.187372",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a strict value extractor.\n\n                Your task is to:\n                - Extract a numeric value from the user's answer.\n                - The value must be between 3 and 300 (inclusive).\n                - The value must be a multiple of 1 relative to the minimum value.\n                - If the user gives a decimal number, round it to the **nearest multiple of 1**.\n                - If the rounded value falls outside the valid range, return `\"None\"`.\n                - Return the value with the same precision as the sliderStep (e.g., if sliderStep is 0.1, return one decimal place).\n\n                Instructions:\n                - Return a **numeric value** that is a multiple of 1 within the given range.\n                - The output format must be (strictly this, no explanation):\n                ===CODE==={\"code\": <numeric_value>}===END_CODE===\n                - If the value is out of range or not a valid multiple of 1, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What is the minimum total stroke required for your parallel gripper, considering a range of 3 to 300 mm?\n                User's Answer: 3\n                Valid Range: 3 to 300 mm\n                Step: 1 mm",
+            "question": "What is the minimum total stroke required for your parallel gripper, considering a range of 3 to 300 mm?",
+            "user_answer": "3",
+            "extract_code": "3",
+            "response_content": "===CODE==={\"code\": 3}===END_CODE==="
+        },
+        {
+            "timestamp": "2025-07-23T10:49:29.303134",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a strict value extractor.\n\n                Your task is to:\n                - Extract a numeric value from the user's answer.\n                - The value must be between 10 and 140 (inclusive).\n                - The value must be a multiple of 1 relative to the minimum value.\n                - If the user gives a decimal number, round it to the **nearest multiple of 1**.\n                - If the rounded value falls outside the valid range, return `\"None\"`.\n                - Return the value with the same precision as the sliderStep (e.g., if sliderStep is 0.1, return one decimal place).\n\n                Instructions:\n                - Return a **numeric value** that is a multiple of 1 within the given range.\n                - The output format must be (strictly this, no explanation):\n                ===CODE==={\"code\": <numeric_value>}===END_CODE===\n                - If the value is out of range or not a valid multiple of 1, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What is the minimum length of the gripping jaws you're looking for, within the range of 10 to 140 mm?\n                User's Answer: 10\n                Valid Range: 10 to 140 mm\n                Step: 1 mm",
+            "question": "What is the minimum length of the gripping jaws you're looking for, within the range of 10 to 140 mm?",
+            "user_answer": "10",
+            "extract_code": "10",
+            "response_content": "===CODE==={\"code\": 10}===END_CODE==="
+        },
+        {
+            "timestamp": "2025-07-23T10:49:41.164940",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a matching engine. The user has answered a question using natural language.\n\n                Your task is to:\n                - Identify the best-matching value from the given list of values.\n                - Match the user's answer against the `name` field in the values (case-insensitive, approximate match allowed).\n                - Return the corresponding `code`.\n\n                Instructions:\n                - You are given a question and a user's answer.\n                - User can only answer for one value.\n                - The values are provided in a structured format.\n                - Only use the `name` field to identify a match. Accept flexible formats (e.g., '10' matches '10.0').\n                - Return the result strictly in this format without any additional text:\n                ===CODE==={\"code\": \"<matched_code>\"}===END_CODE===\n                - If no match is found, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What type of surface would you like your parallel gripper's gripping jaws to be made of: Rubber, Metal, or Plastic?\n                User's Answer: rubber\n                Values: [{'name': 'Rubber', 'code': 'RUBBER'}, {'name': 'Metal', 'code': 'METAL'}, {'name': 'Plastic', 'code': 'PLASTIC'}]",
+            "question": "What type of surface would you like your parallel gripper's gripping jaws to be made of: Rubber, Metal, or Plastic?",
+            "user_answer": "rubber",
+            "extract_code": "RUBBER",
+            "response_content": "===CODE==={\"code\": \"RUBBER\"}===END_CODE==="
+        },
+        {
+            "timestamp": "2025-07-23T10:49:51.596067",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a matching engine. The user has answered a question using natural language.\n\n                Your task is to:\n                - Identify the best-matching value from the given list of values.\n                - Match the user's answer against the `name` field in the values (case-insensitive, approximate match allowed).\n                - Return the corresponding `code`.\n\n                Instructions:\n                - You are given a question and a user's answer.\n                - User can only answer for one value.\n                - The values are provided in a structured format.\n                - Only use the `name` field to identify a match. Accept flexible formats (e.g., '10' matches '10.0').\n                - Return the result strictly in this format without any additional text:\n                ===CODE==={\"code\": \"<matched_code>\"}===END_CODE===\n                - If no match is found, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What type of surface object will the parallel gripper be handling: Glass, Metal, Plastic, or Cardboard?\n                User's Answer: glass\n                Values: [{'name': 'Glass', 'code': 'GLASS'}, {'name': 'Metal', 'code': 'METAL'}, {'name': 'Plastic', 'code': 'PLASTIC'}, {'name': 'Cardboard', 'code': 'CARTON'}]",
+            "question": "What type of surface object will the parallel gripper be handling: Glass, Metal, Plastic, or Cardboard?",
+            "user_answer": "glass",
+            "extract_code": "GLASS",
+            "response_content": "===CODE==={\"code\": \"GLASS\"}===END_CODE==="
+        },
+        {
+            "timestamp": "2025-07-23T10:50:04.378526",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a matching engine. The user has answered a question using natural language.\n\n                Your task is to:\n                - Identify the best-matching value from the given list of values.\n                - Match the user's answer against the `name` field in the values (case-insensitive, approximate match allowed).\n                - Return the corresponding `code`.\n\n                Instructions:\n                - You are given a question and a user's answer.\n                - User can only answer for one value.\n                - The values are provided in a structured format.\n                - Only use the `name` field to identify a match. Accept flexible formats (e.g., '10' matches '10.0').\n                - Return the result strictly in this format without any additional text:\n                ===CODE==={\"code\": \"<matched_code>\"}===END_CODE===\n                - If no match is found, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What additional functions would you like your parallel grippers to have: None, Dustproof, or Precise?\n                User's Answer: dust proof\n                Values: [{'name': 'None', 'code': 'NONE'}, {'name': 'Dustproof', 'code': 'dustproof'}, {'name': 'Precise', 'code': 'precise'}]",
+            "question": "What additional functions would you like your parallel grippers to have: None, Dustproof, or Precise?",
+            "user_answer": "dust proof",
+            "extract_code": "dustproof",
+            "response_content": "===CODE==={\"code\": \"dustproof\"}===END_CODE==="
+        },
+        {
+            "timestamp": "2025-07-23T10:50:21.762813",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a matching engine. The user has answered a question using natural language.\n\n                Your task is to:\n                - Identify the best-matching value from the given list of values.\n                - Match the user's answer against the `name` field in the values (case-insensitive, approximate match allowed).\n                - Return the corresponding `code`.\n\n                Instructions:\n                - You are given a question and a user's answer.\n                - User can only answer for one value.\n                - The values are provided in a structured format.\n                - Only use the `name` field to identify a match. Accept flexible formats (e.g., '10' matches '10.0').\n                - Return the result strictly in this format without any additional text:\n                ===CODE==={\"code\": \"<matched_code>\"}===END_CODE===\n                - If no match is found, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: What type of gripping force backup do you need for your parallel gripper: Any, Normally opened, Normally closed, or None?\n                User's Answer: none\n                Values: [{'name': 'Any', 'code': 'ANY'}, {'name': 'Normally opened', 'code': 'NORMALLY_OPENED'}, {'name': 'Normally closed', 'code': 'NORMALLY_CLOSED'}, {'name': 'None', 'code': 'NONE'}]",
+            "question": "What type of gripping force backup do you need for your parallel gripper: Any, Normally opened, Normally closed, or None?",
+            "user_answer": "none",
+            "extract_code": "NONE",
+            "response_content": "===CODE==={\"code\": \"NONE\"}===END_CODE==="
+        }
+    ],
+    "voice_assistant_room_6297": [
+        {
+            "timestamp": "2025-07-23T10:51:52.714916",
+            "log_type": "success",
+            "type": "code_generation",
+            "system_message": "You are a strict value extractor.\n\n                Your task is to:\n                - Extract a numeric value from the user's answer.\n                - The value must be between 0.1 and 15 (inclusive).\n                - The value must be a multiple of 0.1 relative to the minimum value.\n                - If the user gives a decimal number, round it to the **nearest multiple of 0.1**.\n                - If the rounded value falls outside the valid range, return `\"None\"`.\n                - Return the value with the same precision as the sliderStep (e.g., if sliderStep is 0.1, return one decimal place).\n\n                Instructions:\n                - Return a **numeric value** that is a multiple of 0.1 within the given range.\n                - The output format must be (strictly this, no explanation):\n                ===CODE==={\"code\": <numeric_value>}===END_CODE===\n                - If the value is out of range or not a valid multiple of 0.1, return:\n                ===CODE==={\"code\": \"None\"}===END_CODE===\n\n                Question: minimum payload\n                User's Answer: 10kg\n                Valid Range: 0.1 to 15 kg\n                Step: 0.1 kg",
+            "question": "minimum payload",
+            "user_answer": "10kg",
+            "extract_code": "10.0",
+            "response_content": "To extract the numeric value, I will first remove the unit from the user's answer and then check if it's within the valid range.\n\nThe user's answer is: 10kg\nRemoving the unit \"kg\", the numeric value is: 10\n\nSince 10 is within the valid range of 0.1 to 15 and is a multiple of 0.1, I will return this value with one decimal place as per the step size.\n\n===CODE==={\"code\": 10.0}===END_CODE==="
+        }
     ]
 }
