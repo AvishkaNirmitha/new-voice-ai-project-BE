@@ -1,0 +1,35 @@
+{
+  "room_name": "voice_assistant_room_9952",
+  "session_start": "2025-07-23T09:10:41.997536",
+  "last_updated": "2025-07-23T09:11:49.114014",
+  "message_count": 3,
+  "messages": [
+    {
+      "timestamp": "2025-07-23T09:10:41.997536",
+      "role": "system",
+      "content": "Session started",
+      "metadata": {
+        "event": "session_start",
+        "room": "voice_assistant_room_9952"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T09:11:32.582761",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T09:11:49.114014",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    }
+  ]
+}

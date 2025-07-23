@@ -1,0 +1,26 @@
+{
+  "room_name": "voice_assistant_room_9295",
+  "session_start": "2025-07-23T08:48:58.289497",
+  "last_updated": "2025-07-23T08:51:40.604128",
+  "message_count": 2,
+  "messages": [
+    {
+      "timestamp": "2025-07-23T08:48:58.289497",
+      "role": "system",
+      "content": "Session started",
+      "metadata": {
+        "event": "session_start",
+        "room": "voice_assistant_room_9295"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T08:51:40.604128",
+      "role": "system",
+      "content": "Session ended",
+      "metadata": {
+        "event": "session_end",
+        "usage_summary": "UsageSummary(llm_prompt_tokens=0, llm_prompt_cached_tokens=0, llm_completion_tokens=0, tts_characters_count=99, tts_audio_duration=5.890000000000002, stt_audio_duration=136.4499999999997)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "room_name": "voice_assistant_room_2608",
+  "session_start": "2025-07-23T10:07:44.473303",
+  "last_updated": "2025-07-23T10:10:33.570796",
+  "message_count": 11,
+  "messages": [
+    {
+      "timestamp": "2025-07-23T10:07:44.473303",
+      "role": "system",
+      "content": "Session started",
+      "metadata": {
+        "event": "session_start",
+        "room": "voice_assistant_room_2608"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T10:08:11.874013",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T10:08:53.588286",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T10:09:03.481905",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T10:09:13.667529",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T10:09:25.611460",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T10:09:43.934852",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T10:09:57.037313",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T10:10:08.240484",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T10:10:20.097096",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T10:10:33.570796",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    }
+  ]
+}

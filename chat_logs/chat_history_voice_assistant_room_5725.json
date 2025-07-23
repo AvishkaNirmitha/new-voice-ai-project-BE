@@ -1,0 +1,26 @@
+{
+  "room_name": "voice_assistant_room_5725",
+  "session_start": "2025-07-23T09:48:19.035668",
+  "last_updated": "2025-07-23T09:48:50.081914",
+  "message_count": 2,
+  "messages": [
+    {
+      "timestamp": "2025-07-23T09:48:19.035668",
+      "role": "system",
+      "content": "Session started",
+      "metadata": {
+        "event": "session_start",
+        "room": "voice_assistant_room_5725"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T09:48:50.081356",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    }
+  ]
+}

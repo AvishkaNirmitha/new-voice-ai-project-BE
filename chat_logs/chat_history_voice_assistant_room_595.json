@@ -1,0 +1,17 @@
+{
+  "room_name": "voice_assistant_room_595",
+  "session_start": "2025-07-23T09:58:27.618007",
+  "last_updated": "2025-07-23T09:58:27.618007",
+  "message_count": 1,
+  "messages": [
+    {
+      "timestamp": "2025-07-23T09:58:27.618007",
+      "role": "system",
+      "content": "Session started",
+      "metadata": {
+        "event": "session_start",
+        "room": "voice_assistant_room_595"
+      }
+    }
+  ]
+}

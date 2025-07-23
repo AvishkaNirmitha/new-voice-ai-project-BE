@@ -1,0 +1,44 @@
+{
+  "room_name": "voice_assistant_room_6192",
+  "session_start": "2025-07-23T08:57:58.230209",
+  "last_updated": "2025-07-23T08:59:52.640700",
+  "message_count": 4,
+  "messages": [
+    {
+      "timestamp": "2025-07-23T08:57:58.230209",
+      "role": "system",
+      "content": "Session started",
+      "metadata": {
+        "event": "session_start",
+        "room": "voice_assistant_room_6192"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T08:59:13.538558",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T08:59:16.617291",
+      "role": "system",
+      "content": "Function call: get_next_filter_question with pimId pim487",
+      "metadata": {
+        "function": "get_next_filter_question",
+        "pimId": "pim487"
+      }
+    },
+    {
+      "timestamp": "2025-07-23T08:59:52.640700",
+      "role": "system",
+      "content": "Session ended",
+      "metadata": {
+        "event": "session_end",
+        "usage_summary": "UsageSummary(llm_prompt_tokens=3558, llm_prompt_cached_tokens=0, llm_completion_tokens=142, tts_characters_count=266, tts_audio_duration=10.340000000000003, stt_audio_duration=92.59999999999988)"
+      }
+    }
+  ]
+}
