@@ -358,6 +358,11 @@ WORKFLOW:
     async def get_next_filter_question(self, context: RunContext, endSubCategoryPimId: str):
 
         room_id = self.chat_manager.room_name
+        self.chat_manager.add_message(
+            role="system",
+            content=f"Function call: get_next_filter_question with pimId {endSubCategoryPimId}",
+            metadata={"function": "get_next_filter_question", "pimId": endSubCategoryPimId}
+        )
     # """Get the next filter question for a given end-level subcategory pimId."""
 
         # Initialize conversation_states for this room_id if not exists
