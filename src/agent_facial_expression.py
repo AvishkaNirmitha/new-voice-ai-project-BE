@@ -28,6 +28,7 @@ from livekit.agents.llm import function_tool
 from livekit.agents.voice import MetricsCollectedEvent
 from livekit.plugins import cartesia, deepgram, noise_cancellation, openai, silero
 from livekit.plugins.turn_detector.multilingual import MultilingualModel
+from livekit.plugins.turn_detector.english import EnglishModel
 
 from livekit.plugins import google
 
@@ -162,20 +163,29 @@ async def entrypoint(ctx: JobContext):
 
     # Set up a voice AI pipeline using OpenAI, Cartesia, Deepgram, and the LiveKit turn detector
     session = AgentSession(
+        # llm=openai.realtime.RealtimeModel(model="gpt-4o-mini-realtime-preview",modalities=["text"]),
+
+        # tts=elevenlabs.TTS(
+        #     voice_id="KU7fyKrDK75F9nWiORJr",
+        #     model="eleven_multilingual_v2",
+        #     # streaming_latency=1
+        # ),
+
+
         # any combination of STT, LLM, TTS, or realtime API can be used
         # llm=openai.LLM(model="gpt-4o-mini"),
-        # stt=deepgram.STT(model="nova-3", language="en"),
+        stt=deepgram.STT(model="nova-3", language="en"),
         # stt=groq.STT(
         #     model="whisper-large-v3-turbo",
         #     language="en",
         # ),
 
-        # llm=groq.LLM(
-        #     # model="llama3-8b-8192"
-        #     # model="meta-llama/llama-4-scout-17b-16e-instruct"
-        #     model="llama3-8b-8192",
-        #     temperature=0.3
-        # ),
+        llm=groq.LLM(
+            # model="llama3-8b-8192"
+            # model="meta-llama/llama-4-scout-17b-16e-instruct"
+            model="llama3-8b-8192",
+            temperature=0.3
+        ),
 
         # llm=google.beta.realtime.RealtimeModel(
         #     model="gemini-2.0-flash-exp",
@@ -184,13 +194,13 @@ async def entrypoint(ctx: JobContext):
         #     # allow_interruptions=True,
         # ),
 
-        llm=openai.realtime.RealtimeModel(model="gpt-4o-mini-realtime-preview",modalities=["text"]),
-
-        tts=elevenlabs.TTS(
-            voice_id="KU7fyKrDK75F9nWiORJr",
-            model="eleven_multilingual_v2",
-            # streaming_latency=1
+        tts=groq.TTS(
+          model="playai-tts",
+          voice="Arista-PlayAI",
         ),
+
+
+
         # tts=cartesia.TTS(),
         # tts=openai.TTS(
         #     model="tts-1",
@@ -199,7 +209,14 @@ async def entrypoint(ctx: JobContext):
         # use LiveKit's turn detection model
         # turn_detection=MultilingualModel(),
         # vad=ctx.proc.userdata["vad"],
-        vad=silero.VAD.load()
+        vad=silero.VAD.load(),
+        # turn_detection=MultilingualModel(
+        #     model="turn-detection-v2",
+        #     language="en",
+        #     # vad=ctx.proc.userdata["vad"],
+        # ),
+
+        turn_detection=EnglishModel(),
 
     )
 
@@ -369,6 +386,8 @@ async def entrypoint(ctx: JobContext):
             # LiveKit Cloud enhanced noise cancellation
             # - If self-hosting, omit this parameter
             # - For telephony applications, use `BVCTelephony` for best results
+
+            
 
             noise_cancellation=noise_cancellation.BVC(),
             
