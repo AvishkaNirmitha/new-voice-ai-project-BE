@@ -1,11 +1,11 @@
 {
   "room_name": "fake_room",
-  "session_start": "2025-07-23T15:05:31.408660",
-  "last_updated": "2025-07-23T15:07:29.720497",
+  "session_start": "2025-07-25T07:35:12.810619",
+  "last_updated": "2025-07-25T07:36:29.242872",
   "message_count": 3,
   "messages": [
     {
-      "timestamp": "2025-07-23T15:05:31.408660",
+      "timestamp": "2025-07-25T07:35:12.810619",
       "role": "system",
       "content": "Session started",
       "metadata": {
@@ -14,20 +14,20 @@
       }
     },
     {
-      "timestamp": "2025-07-23T15:05:31.410688",
+      "timestamp": "2025-07-25T07:35:12.812386",
       "role": "system",
-      "content": "\n    Additional context for this session:\n    - Room: fake_room\n    - Session started at: 2025-07-23T15:05:31.410688\n    - Remember to be motivational and inspiring in all responses\n    - Focus on leadership and entrepreneurship topics\n    ",
+      "content": "\n    Additional context for this session:\n    - Room: fake_room\n    - Session started at: 2025-07-25T07:35:12.812386\n    - Remember to be motivational and inspiring in all responses\n    - Focus on leadership and entrepreneurship topics\n    ",
       "metadata": {
         "type": "dynamic_system_prompt"
       }
     },
     {
-      "timestamp": "2025-07-23T15:07:29.720497",
+      "timestamp": "2025-07-25T07:36:29.242872",
       "role": "system",
       "content": "Session ended",
       "metadata": {
         "event": "session_end",
-        "usage_summary": "UsageSummary(llm_prompt_tokens=3498, llm_prompt_cached_tokens=2496, llm_completion_tokens=584, tts_characters_count=1760, tts_audio_duration=118.36081632653088, stt_audio_duration=0.0)"
+        "usage_summary": "UsageSummary(llm_prompt_tokens=780, llm_prompt_cached_tokens=256, llm_completion_tokens=254, tts_characters_count=1358, tts_audio_duration=95.8693877551022, stt_audio_duration=0.0)"
       }
     }
   ]
