@@ -27,7 +27,7 @@ from livekit.plugins import anthropic
 
 from livekit.agents.llm import function_tool
 from livekit.agents.voice import MetricsCollectedEvent
-from livekit.plugins import openai, silero
+from livekit.plugins import openai, silero, noise_cancellation
 
 # # Assuming the script is in the same directory level as 'src'
 # from scripts.v1.agent_recomends_with import get_next_filter_question
@@ -737,9 +737,7 @@ async def entrypoint(ctx: JobContext):
             # LiveKit Cloud enhanced noise cancellation
             # - If self-hosting, omit this parameter
             # - For telephony applications, use `BVCTelephony` for best results
-
-            # noise_cancellation=noise_cancellation.BVC(),
-            # noise_cancellation=noise_cancellation.BVC(),
+            noise_cancellation=noise_cancellation.BVC(),
             
         ),
         room_output_options=RoomOutputOptions(transcription_enabled=True),
